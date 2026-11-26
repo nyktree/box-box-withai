@@ -1,0 +1,29 @@
+@startuml
+left to right direction
+actor Administrador
+actor Atendente
+actor Mecanico
+rectangle "Box Box" {
+ usecase "Gerenciar usuários" as U1
+ usecase "Gerenciar clientes e veículos" as U2
+ usecase "Abrir ordem" as U3
+ usecase "Registrar diagnóstico e peças" as U4
+ usecase "Atualizar status" as U5
+ usecase "Consultar histórico" as U6
+ usecase "Exportar relatórios" as U7
+}
+Administrador --> U1
+Administrador --> U2
+Administrador --> U3
+Administrador --> U4
+Administrador --> U5
+Administrador --> U6
+Administrador --> U7
+Atendente --> U2
+Atendente --> U3
+Atendente --> U5
+Atendente --> U6
+Mecanico --> U4
+Mecanico --> U5
+Mecanico --> U6
+@enduml

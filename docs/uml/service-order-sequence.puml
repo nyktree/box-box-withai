@@ -1,0 +1,12 @@
+@startuml
+actor Atendente
+participant View
+participant ServiceOrder
+participant Database
+Atendente -> View: envia veículo e reclamação
+View -> ServiceOrder: create(...)
+ServiceOrder -> ServiceOrder: gerar BB-AAAA-NNNN
+ServiceOrder -> Database: INSERT
+Database --> View: ordem persistida
+View --> Atendente: detalhe da ordem
+@enduml

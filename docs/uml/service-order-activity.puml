@@ -1,0 +1,15 @@
+@startuml
+start
+:Cadastrar cliente e veículo;
+:Abrir ordem;
+:Registrar reclamação;
+:Diagnosticar;
+if (Precisa de peças?) then (sim)
+ :Aguardando peças;
+endif
+:Em manutenção;
+:Registrar diagnóstico e peças;
+:Pronta para entrega;
+:Entregue;
+stop
+@enduml

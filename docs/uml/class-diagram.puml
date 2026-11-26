@@ -1,0 +1,19 @@
+@startuml
+class Customer
+class Vehicle
+class ServiceOrder
+class Damage
+class DamageCategory
+class CauseSuggestion
+class Part
+class ServicePart
+class StatusHistory
+Customer "1" -- "*" Vehicle
+Vehicle "1" -- "*" ServiceOrder
+ServiceOrder "1" -- "*" Damage
+ServiceOrder "1" -- "*" ServicePart
+ServiceOrder "1" -- "*" StatusHistory
+DamageCategory "1" -- "*" Damage
+DamageCategory "1" -- "*" CauseSuggestion
+Part "1" -- "*" ServicePart
+@enduml
