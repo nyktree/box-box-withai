@@ -1,0 +1,1 @@
+{% extends 'base.html' %}{% block content %}<span class="eyebrow mono">{{ order.number }}</span><h1>Registrar avaria</h1><form method="post" class="form-card">{% csrf_token %}{{ form.as_p }}<button class="button">Salvar avaria</button></form>{% endblock %}
