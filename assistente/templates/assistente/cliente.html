@@ -1,0 +1,37 @@
+{% load static assistente_tags %}<!doctype html><html lang="pt-br"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#0b0c0e"><meta name="robots" content="noindex"><title>{{ order.number }} · Box Box</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500&display=swap" rel="stylesheet">
+<link rel="icon" type="image/png" href="{% static 'img/favicon.png' %}"><link rel="stylesheet" href="{% static 'css/app.css' %}"><link rel="stylesheet" href="{% static 'assistente/assistente.css' %}"><script defer src="{% static 'assistente/chat.js' %}"></script></head>
+<body class="cliente-page">
+<main class="cliente-wrap">
+  <header class="cliente-brand"><img src="{% static 'img/boxbox-mark.png' %}" alt=""><div><strong>BOX BOX</strong><small class="mono">ACOMPANHE SEU VEÍCULO</small></div></header>
+  <div class="cliente-grid">
+    <div>
+      <span class="eyebrow mono">{{ order.number }}</span>
+      <h1>{{ order.vehicle.brand }} {{ order.vehicle.model }}</h1>
+      <p class="ia-muted">{{ order.vehicle.plate }} · {{ order.vehicle.owner.name }}</p>
+      <section class="panel">
+        <h2 class="ia-h2">Situação atual</h2>
+        <span class="status status-{{ order.status|lower }}">{{ order.get_status_display }}</span>
+        <dl class="cliente-dl"><dt>Previsão de entrega</dt><dd>{{ order.expected_delivery|date:'d/m/Y'|default:'Ainda não definida' }}</dd><dt>{% if valor_final %}Valor final{% else %}Valor estimado{% endif %}</dt><dd>{% if valor %}R$ {{ valor|floatformat:2 }}{% else %}Ainda não definido{% endif %}</dd></dl>
+      </section>
+      <section class="panel">
+        <h2 class="ia-h2">Linha do tempo</h2>
+        <ol class="cliente-tl"><li><span>Ordem aberta</span><small class="mono">{{ order.opened_at|date:'d/m H:i' }}</small></li>{% for item in historico %}<li{% if forloop.last %} class="atual"{% endif %}><span>{{ item.new_status|rotulo_status }}</span><small class="mono">{{ item.created_at|date:'d/m H:i' }}</small></li>{% endfor %}</ol>
+      </section>
+      <section class="panel">
+        <h2 class="ia-h2">Peças registradas</h2>
+        {% for used in pecas %}<p class="cliente-row"><span>{{ used.quantity }}× {{ used.part.name }}</span><span>R$ {{ used.total|floatformat:2 }}</span></p>{% empty %}<p class="ia-muted">Nenhuma peça registrada até agora.</p>{% endfor %}
+      </section>
+    </div>
+    <section class="panel chat" aria-label="Assistente do cliente">
+      <div class="chat-head"><div><strong>Assistente Box Box</strong> <span class="ia-tag">IA</span><p class="ia-muted">Responde com base nos registros desta ordem.</p></div></div>
+      <div class="chat-msgs" id="chat-msgs" aria-live="polite">
+        <div class="msg bot">Olá, {{ primeiro_nome }}! Pergunte sobre status, previsão de entrega, peças, valores, diagnóstico ou histórico da sua ordem.</div>
+      </div>
+      <div class="chips"><button type="button" class="chip">Qual é o status?</button><button type="button" class="chip">Quando fica pronto?</button><button type="button" class="chip">O que foi trocado?</button><button type="button" class="chip">Quanto vai custar?</button><button type="button" class="chip">O que significa aguardando peças?</button>
+      </div>
+      <form class="chat-form" id="chat-form" data-url="{% url 'cliente_perguntar' token %}">{% csrf_token %}<input id="chat-input" name="pergunta" maxlength="300" autocomplete="off" placeholder="Escreva sua pergunta…" required><button>Enviar</button></form>
+    </section>
+  </div>
+</main>
+</body></html>

@@ -1,0 +1,4 @@
+# Só para gerar o dataset, treinar de novo e refazer os gráficos
+scikit-learn>=1.5
+pandas>=2.2
+matplotlib>=3.8

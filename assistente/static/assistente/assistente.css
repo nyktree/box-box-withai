@@ -1,0 +1,51 @@
+/* Assistente do cliente (IA) — usa as variáveis de cor do app.css */
+.ia-tag{display:inline-block;margin-left:6px;padding:2px 6px;border-radius:4px;background:#2a1418;color:#ff8f8f;font:600 10px "IBM Plex Mono",monospace;letter-spacing:.08em;vertical-align:middle}
+.ia-muted{color:var(--muted);line-height:1.55}
+.order-grid .panel.ia-panel{grid-column:1/-1}
+.ia-link-row{display:grid;grid-template-columns:1fr auto auto;gap:8px;margin:12px 0}
+.ia-link-row .button{display:inline-flex;align-items:center}
+.ia-text-button{min-height:auto;padding:4px 0;background:none;color:#ff9b9b;font-weight:500}
+.ia-sub{font-size:14px;margin:22px 0 6px;color:#c6cad1}
+.ia-log summary span{color:var(--muted);font-size:12px;font-weight:500}
+.ia-log p{margin:10px 0 6px}
+.ia-h2{font-size:12px;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);margin:0 0 14px}
+/* página do cliente */
+.cliente-page{min-height:100vh;background:radial-gradient(circle at 80% 0,#251012 0,transparent 30%),var(--bg)}
+.cliente-wrap{max-width:1100px;margin:0 auto;padding:28px clamp(16px,4vw,40px) 48px}
+.cliente-brand{display:flex;align-items:center;gap:12px;padding-bottom:20px;margin-bottom:24px;border-bottom:1px solid var(--border)}
+.cliente-brand img{width:40px;height:40px}.cliente-brand strong{display:block;letter-spacing:.08em}.cliente-brand small{display:block;color:var(--muted);font-size:10px;margin-top:3px}
+.cliente-grid{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.1fr);gap:24px;align-items:start}
+.cliente-grid .panel{margin:16px 0 0}
+.cliente-dl{grid-template-columns:150px 1fr;margin:16px 0 0}
+.cliente-tl{list-style:none;margin:0;padding:0}
+.cliente-tl li{position:relative;display:flex;justify-content:space-between;gap:12px;padding:0 0 14px 22px}
+.cliente-tl li:before{content:"";position:absolute;left:3px;top:6px;width:9px;height:9px;border-radius:50%;background:var(--green)}
+.cliente-tl li:after{content:"";position:absolute;left:7px;top:17px;bottom:0;width:1px;background:var(--border)}
+.cliente-tl li:last-child:after{display:none}
+.cliente-tl li.atual:before{background:var(--amber);box-shadow:0 0 0 3px #342a14}
+.cliente-tl small,.cliente-row span:last-child{color:var(--muted)}
+.cliente-row{display:flex;justify-content:space-between;margin:0 0 8px}
+/* chat */
+.chat{position:sticky;top:20px;display:flex;flex-direction:column;min-height:640px;margin-top:0!important}
+.chat-head{padding-bottom:12px;border-bottom:1px solid var(--border)}.chat-head p{margin:4px 0 0;font-size:13px}
+.chat-msgs{flex:1;display:flex;flex-direction:column;gap:10px;padding:16px 0;overflow-y:auto;max-height:62vh}
+.msg{max-width:88%;padding:11px 13px;border-radius:12px;line-height:1.5;font-size:14px}
+.msg.cliente{align-self:flex-end;background:var(--red);border-bottom-right-radius:3px}
+.msg.bot{align-self:flex-start;background:var(--surface-2);border:1px solid var(--border);border-bottom-left-radius:3px}
+.msg.bot.incerto{border-color:#5c4a1f}
+.msg .fonte{display:block;margin-top:6px;color:var(--muted);font:500 11px "IBM Plex Mono",monospace}
+.decisao{margin-top:8px;border-top:1px dashed var(--border);padding-top:8px}
+.decisao summary{font:500 11px "IBM Plex Mono",monospace;color:#9fb6d6;display:block;list-style:none}
+.decisao summary::-webkit-details-marker{display:none}
+.decisao[open] summary{margin-bottom:8px}
+.decisao dl{grid-template-columns:96px 1fr;gap:6px;margin:0;font-size:12px}
+.barra{display:flex;align-items:center;gap:8px;font:500 11px "IBM Plex Mono",monospace;margin:3px 0}
+.barra i{display:block;height:6px;border-radius:3px;background:#3987e5}
+.barra.limiar i{background:#6b7280}
+.palavras span{display:inline-block;margin:0 4px 4px 0;padding:2px 6px;border-radius:4px;background:#14243a;color:#9cc4f5;font:500 11px "IBM Plex Mono",monospace}
+.chips{display:flex;flex-wrap:wrap;gap:6px;margin:4px 0 10px}
+.chip{min-height:32px;padding:6px 10px;border:1px solid var(--border);background:var(--surface);color:#c6cad1;border-radius:999px;font-weight:500;font-size:12px}
+.chip:hover{border-color:#59606d}
+.chat-form{display:grid;grid-template-columns:1fr auto;gap:8px}
+.digitando{color:var(--muted);font-size:13px}
+@media(max-width:900px){.cliente-grid{grid-template-columns:1fr}.chat{position:static;min-height:520px}}

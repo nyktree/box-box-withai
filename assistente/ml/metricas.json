@@ -1,0 +1,246 @@
+{
+  "dataset": {
+    "sintetico": 2340,
+    "treino": 1872,
+    "validacao": 468,
+    "teste_manual": 90,
+    "por_intencao": {
+      "prazo": 260,
+      "historico": 260,
+      "fora_escopo": 260,
+      "status": 260,
+      "pecas": 260,
+      "valor": 260,
+      "significado_status": 260,
+      "diagnostico": 260,
+      "saudacao": 260
+    }
+  },
+  "comparacao": [
+    {
+      "modelo": "Regra fixa (palavras-chave)",
+      "f1_validacao": 0.5811,
+      "acuracia_teste_manual": 0.5222,
+      "f1_teste_manual": 0.5199,
+      "tempo_treino_s": 0.0,
+      "tempo_por_pergunta_ms": 0.0132
+    },
+    {
+      "modelo": "Árvore de decisão",
+      "f1_validacao": 0.9445,
+      "acuracia_teste_manual": 0.6444,
+      "f1_teste_manual": 0.6487,
+      "tempo_treino_s": 0.2854,
+      "tempo_por_pergunta_ms": 0.069
+    },
+    {
+      "modelo": "Random Forest",
+      "f1_validacao": 0.9957,
+      "acuracia_teste_manual": 0.8333,
+      "f1_teste_manual": 0.8264,
+      "tempo_treino_s": 1.4038,
+      "tempo_por_pergunta_ms": 0.6882
+    },
+    {
+      "modelo": "Regressão logística",
+      "f1_validacao": 1.0,
+      "acuracia_teste_manual": 0.9111,
+      "f1_teste_manual": 0.9088,
+      "tempo_treino_s": 0.2706,
+      "tempo_por_pergunta_ms": 0.0807
+    },
+    {
+      "modelo": "Rede neural (MLP)",
+      "f1_validacao": 0.9914,
+      "acuracia_teste_manual": 0.9111,
+      "f1_teste_manual": 0.908,
+      "tempo_treino_s": 1.6956,
+      "tempo_por_pergunta_ms": 0.0717
+    }
+  ],
+  "modelo_escolhido": "Regressão logística",
+  "validacao_cruzada_f1": {
+    "media": 0.9983,
+    "desvio": 0.0016
+  },
+  "final_teste_manual": {
+    "acuracia": 0.9222,
+    "f1_macro": 0.9213
+  },
+  "limiar_confianca": 0.55,
+  "curva_limiar": [
+    {
+      "limiar": 0.0,
+      "cobertura": 1.0,
+      "acuracia_respondidas": 0.9222222222222223
+    },
+    {
+      "limiar": 0.05,
+      "cobertura": 1.0,
+      "acuracia_respondidas": 0.9222222222222223
+    },
+    {
+      "limiar": 0.1,
+      "cobertura": 1.0,
+      "acuracia_respondidas": 0.9222222222222223
+    },
+    {
+      "limiar": 0.15,
+      "cobertura": 1.0,
+      "acuracia_respondidas": 0.9222222222222223
+    },
+    {
+      "limiar": 0.2,
+      "cobertura": 1.0,
+      "acuracia_respondidas": 0.9222222222222223
+    },
+    {
+      "limiar": 0.25,
+      "cobertura": 0.9888888888888889,
+      "acuracia_respondidas": 0.9325842696629213
+    },
+    {
+      "limiar": 0.3,
+      "cobertura": 0.9888888888888889,
+      "acuracia_respondidas": 0.9325842696629213
+    },
+    {
+      "limiar": 0.35,
+      "cobertura": 0.9888888888888889,
+      "acuracia_respondidas": 0.9325842696629213
+    },
+    {
+      "limiar": 0.4,
+      "cobertura": 0.9888888888888889,
+      "acuracia_respondidas": 0.9325842696629213
+    },
+    {
+      "limiar": 0.45,
+      "cobertura": 0.9555555555555556,
+      "acuracia_respondidas": 0.9418604651162791
+    },
+    {
+      "limiar": 0.5,
+      "cobertura": 0.9222222222222223,
+      "acuracia_respondidas": 0.9518072289156626
+    },
+    {
+      "limiar": 0.55,
+      "cobertura": 0.9111111111111111,
+      "acuracia_respondidas": 0.9634146341463414
+    },
+    {
+      "limiar": 0.6,
+      "cobertura": 0.8888888888888888,
+      "acuracia_respondidas": 0.9625
+    },
+    {
+      "limiar": 0.65,
+      "cobertura": 0.8777777777777778,
+      "acuracia_respondidas": 0.9746835443037974
+    },
+    {
+      "limiar": 0.7,
+      "cobertura": 0.8333333333333334,
+      "acuracia_respondidas": 0.9733333333333334
+    },
+    {
+      "limiar": 0.75,
+      "cobertura": 0.7888888888888889,
+      "acuracia_respondidas": 0.971830985915493
+    },
+    {
+      "limiar": 0.8,
+      "cobertura": 0.7333333333333333,
+      "acuracia_respondidas": 0.9696969696969697
+    },
+    {
+      "limiar": 0.85,
+      "cobertura": 0.6888888888888889,
+      "acuracia_respondidas": 0.9838709677419355
+    },
+    {
+      "limiar": 0.9,
+      "cobertura": 0.6,
+      "acuracia_respondidas": 1.0
+    }
+  ],
+  "erros_teste_manual": [
+    {
+      "pergunta": "falou",
+      "intencao": "saudacao",
+      "previsto": "valor",
+      "confianca": 0.25
+    },
+    {
+      "pergunta": "tá caro o servico?",
+      "intencao": "valor",
+      "previsto": "status",
+      "confianca": 0.81
+    },
+    {
+      "pergunta": "quais mudanças teve no status",
+      "intencao": "historico",
+      "previsto": "pecas",
+      "confianca": 0.51
+    },
+    {
+      "pergunta": "há quantos dias meu carro esta ai",
+      "intencao": "historico",
+      "previsto": "prazo",
+      "confianca": 0.48
+    },
+    {
+      "pergunta": "até que horas vcs ficam abertos",
+      "intencao": "fora_escopo",
+      "previsto": "prazo",
+      "confianca": 0.42
+    },
+    {
+      "pergunta": "quanto custa pra alinhar e balancear",
+      "intencao": "fora_escopo",
+      "previsto": "valor",
+      "confianca": 0.89
+    },
+    {
+      "pergunta": "qual time vc torce",
+      "intencao": "fora_escopo",
+      "previsto": "valor",
+      "confianca": 0.61
+    }
+  ],
+  "curva_aprendizado": [
+    {
+      "exemplos": 18,
+      "f1": 0.3698027046912628
+    },
+    {
+      "exemplos": 45,
+      "f1": 0.5687336406005237
+    },
+    {
+      "exemplos": 90,
+      "f1": 0.6672312545270124
+    },
+    {
+      "exemplos": 180,
+      "f1": 0.8276719804770538
+    },
+    {
+      "exemplos": 360,
+      "f1": 0.8564350288677626
+    },
+    {
+      "exemplos": 720,
+      "f1": 0.9055830472067141
+    },
+    {
+      "exemplos": 1440,
+      "f1": 0.9138443007896052
+    },
+    {
+      "exemplos": 2340,
+      "f1": 0.9213134837489841
+    }
+  ]
+}

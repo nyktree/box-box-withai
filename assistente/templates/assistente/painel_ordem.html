@@ -1,0 +1,22 @@
+{% load static assistente_tags %}<link rel="stylesheet" href="{% static 'assistente/assistente.css' %}"><script defer src="{% static 'assistente/chat.js' %}"></script>
+<section class="panel ia-panel">
+  <div class="section-head"><h2>Assistente do cliente <span class="ia-tag">IA</span></h2></div>
+  {% if link %}
+    <p class="ia-muted">Link ativo, criado em {{ link.criado_em|date:'d/m/Y H:i' }}. O cliente vê o andamento e tira dúvidas sem login.</p>
+    <div class="ia-link-row"><input id="ia-link" readonly value="{{ url }}"><button type="button" class="button secondary" data-copiar="#ia-link">Copiar</button><a class="button secondary" href="{{ url }}" target="_blank" rel="noopener">Abrir</a></div>
+    {% if pode_gerenciar %}<form method="post" action="{% url 'assistente_revogar_link' order.pk %}" data-confirm="Cancelar o link? O cliente perde o acesso.">{% csrf_token %}<button class="ia-text-button">Cancelar link</button></form>{% endif %}
+  {% elif encerrada %}
+    <p class="ia-muted">Ordem encerrada: o link de acompanhamento expira na entrega ou no cancelamento.</p>
+  {% elif pode_gerenciar %}
+    <p class="ia-muted">Gere um link seguro para o cliente acompanhar esta ordem e conversar com o assistente.</p>
+    <form method="post" action="{% url 'assistente_gerar_link' order.pk %}">{% csrf_token %}<button>Gerar link do cliente</button></form>
+  {% else %}
+    <p class="ia-muted">Nenhum link ativo. O atendente gera o link para o cliente.</p>
+  {% endif %}
+  {% if perguntas %}
+    <h3 class="ia-sub">Últimas perguntas do cliente</h3>
+    {% for p in perguntas %}
+      <details class="ia-log"><summary>{{ p.pergunta }} <span class="mono">{{ p.intencao|nome_intencao }} · {% widthratio p.confianca 1 100 %}%</span></summary><p>{{ p.resposta }}</p><small class="ia-muted">{{ p.criado_em|date:'d/m H:i' }} · ferramenta: {{ p.ferramenta|default:'nenhuma (pediu para reformular)' }}</small></details>
+    {% endfor %}
+  {% endif %}
+</section>

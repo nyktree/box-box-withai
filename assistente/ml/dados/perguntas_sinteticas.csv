@@ -1,0 +1,2341 @@
+pergunta,intencao
+"bom dia, o onix sai até sexta",prazo
+"por favor, quando mudou o status",historico
+qnd foi feito o diagnóstico obg,historico
+"opa, qual a previsao de entrega me fala",prazo
+"com licença, me recomenda um seguro me fala",fora_escopo
+"Entao, ja passou por quais etapas me fala",historico
+qnd mudou o status??,historico
+"bom dia, demora quantos dias",prazo
+"com licença, situação atual",status
+"e aí, quais peças vãousar obrigado",pecas
+Boa tarde qual a situação do meu gol pfv,status
+"bom dia, quanto vai sair pfv",valor
+"oi, como anda o conserto",status
+"entao, me explica o status?",significado_status
+"moço, o q causou o defeito",diagnostico
+"OPA, DESDE QUANDO TÁ AGUARDANDO PEÇAS??",historico
+"EI, QND O CARRO DA MINHA ESPOSA DEU ENTRADA POR FAVOR",historico
+"Boa tarde, tem novidad da minha ordem rapidinho",status
+"oi, explica o defeito do hb2 por favor",diagnostico
+"Oi, tem lava jato aí aí",fora_escopo
+"bom dia, como está o carro aí",status
+precisou trocar alguma coisa,pecas
+"Então, em que etapa está o meu caro??",status
+aguardando peças quer dizer o quê,significado_status
+"boa tarde, posso mudar o mecânico",fora_escopo
+Qual peça foi pedida?,pecas
+"ola, tudo bem?",saudacao
+"Oi, qual peça está faltando obg",pecas
+agradeco,saudacao
+Prfeito,saudacao
+quero cancelar o serviço?,fora_escopo
+qual peça foi pedida obrigado,pecas
+"ei, aceita pix pfv",fora_escopo
+"EI, QUE DIA EU DEIXEI O CARRO DO MEU PAI",historico
+"bom dia, qual o problema do onix?",diagnostico
+"por favor, qual eça tá faltando me fala",pecas
+"oi, status",status
+"E aí, quanto está o orçamento do carrinho rapidinho",valor
+quando entrou em manutenção?,historico
+"e aí, o mecânico descobriu o que é rapidinho",diagnostico
+Qual o defeito encontrado ai,diagnostico
+"Pfv, dá pra trocar o óleo tb aí",fora_escopo
+"Pfv, que dia foi aberta a ordem obg",historico
+"moço, o que está errado com o meu fiat",diagnostico
+Agraeco,saudacao
+Quato vai sair pfv,valor
+"Boa tarde, quando mudou o status",historico
+O Q SIGNIFICA AGUARDANDO PEÇAS??,significado_status
+"moço, quantas peças foram trocadas?",pecas
+Tudobem,saudacao
+"opa, status pronta pra entrega significa que já posso buscar??",significado_status
+"moco, o problema era grave pfv",diagnostico
+"pfv, por q o carro da minha esposa esquentava pfv",diagnostico
+"opa, qual peça foi pedida pfv",pecas
+"Ei, quais pecas vao usar rapidinho",pecas
+"Olá, dá pra buscar hoje pfv",prazo
+qual o defeito encontrado,diagnostico
+"Enão, consigo pegar o meu gol amanhã",prazo
+"opa, qnd voces entregam o corolla ai",prazo
+"Então, lista das peçs aí",pecas
+"Boa tarde, quero falar com o gerente aí",fora_escopo
+"boa tarde, dá pra buscar hoje",prazo
+"oi, qnd libera o carrinho",prazo
+"OI, QAL E O STATUS DO CARRO?",status
+obrigdo,saudacao
+o que significa ordem aberta,significado_status
+"então, até qnd fica pronto aí",prazo
+"ei, data prevista de entrega aí",prazo
+"moco, qual a causa do barulho?",diagnostico
+desde quando esta aguardando pecas??,historico
+"com licença, aceita pix pfv",fora_escopo
+O serviço do carro da minha esposa já começou me fala,status
+"Olá, tem previsão pra terminar me fala",prazo
+"E ai, o que e diagnostico pendente?",significado_status
+Trocaram a correia,pecas
+"Então, qual peça tá faltando pfv",pecas
+"Ei, o veículo está parado aí pfv",status
+"opa, chegou a peca do carro do meu pai??",pecas
+"com licença, o que já foi feito até agora",historico
+"pfv, qual o telefone da oficina",fora_escopo
+"OPA, QUANTO CUSTA O CONSERTO DO HB20",valor
+OI,saudacao
+me explica o status,significado_status
+"E AÍ, VCS BUSCAM O CARRO EM CASA PFV",fora_escopo
+"bom dia, qual o preçopfv",valor
+"moço, como está o carro da minha esposa por favor",status
+"oi, o q é diagnósico pendente",significado_status
+"Opa, descobriram o defeito rapidinho",diagnostico
+"ei, o que o hb20 tem",diagnostico
+QUAIS PEÇAS VÃO USAR ME FALA,pecas
+"Olá, é coisa séria",diagnostico
+boa tarde,saudacao
+"ento, o que significa cancelada por favor",significado_status
+"Oi, ja terminaram o carro da minha esposa pfv",status
+"opa, qnd começou o conserto",historico
+"Entao, desde quando esta aguardand pecas",historico
+"olá, dá pra trocar o óleo também?",fora_escopo
+Quero cancelar o servico??,fora_escopo
+"bom dia, o q foi trocado??",pecas
+"E ai, o problema e na suspensao",diagnostico
+"bom dia, qual peca foi pedida?",pecas
+"pfv, qual a data de entrega pfv",prazo
+"OPA, MOSTRA O HISTORICO DA ORDEM??",historico
+"e aí, quando abriram a ordem",historico
+"E AÍ, QUAL O HRÁRIO DE FUNCIONAMENTO",fora_escopo
+"boa tarde, o q já foi feito té agora aí",historico
+"oi, alguem a?",saudacao
+"Olá, quais peças entraram no serviço rapidinho",pecas
+"pfv, o que vocês substituíram no corolla pfv",pecas
+"ola, trocaram alguma peca pfv",pecas
+"Então, o q significa cancelada por favor",significado_status
+T bom entao,saudacao
+qual a previsão de entrega me fala,prazo
+"CERTO, OBRIGDO",saudacao
+"BOA TARDE, O PEÇO MUDOU?",valor
+"bom dia, q dia foi aberta a ordem",historico
+"boa tarde, a peça já chegou por favor",pecas
+"ola, quais pecas foram trocadas??",pecas
+"Ola, qual o preco pfv",valor
+"opa, quando entrou em manutenção pfv",historico
+"Moco, vai ficar caro obg",valor
+Chegou a peça do veículo,pecas
+"Bm dia, valor do orçamento??",valor
+"pfv, o meu carro sai até sexta pfv",prazo
+"e aí, qual o prazo do conserto",prazo
+ba noite,saudacao
+data prevista de entrega pfv,prazo
+Quanto vou pagar me fala,valor
+"Pfv, quero agendar uma revisão?",fora_escopo
+"opa,qual o horário de funcionamento??",fora_escopo
+"Oi, me mostra tudo q aconteceu obrigado",historico
+"bom dia, em que etapa esta o corolla?",status
+"Oi, atualização do meu carro?",status
+"então, quero falar com o gerente?",fora_escopo
+Ok enteni,saudacao
+"e aí, aceita pix??",fora_escopo
+"Então, quero reclamar do atendimento aí",fora_escopo
+"OPA, QND ABRIRAM A ORDEM AÍ",historico
+"ei,  hb20 ainda está na fila rapidinho",status
+"então, qnd começou o conserto obrigado",historico
+Em que pé está o serviço me fala,status
+entendi obrigado,saudacao
+"o, alguém aí?",saudacao
+desde quando está aguardando peças pfv,historico
+"boa tarde, o q e diagnostico pendente",significado_status
+"boa tarde, tem novidade da minha ordem?",status
+"OI, O QUE QUER DIZER ABERTA?",significado_status
+esse status quer dizer o que??,significado_status
+"boa tarde, voces abrem sabado pfv",fora_escopo
+"Então, que dia o carrinho fica pronto?",prazo
+obrigao,saudacao
+O carro á ficou pronto,status
+"e aí, quanto custa uma troca de óleo",fora_escopo
+vcs trabalham com carro elétrico,fora_escopo
+como tá o veículo me fala,status
+"olá, qual o andamento do serviço obg",status
+"oi, o q significa aguardando peças?",significado_status
+que dia foi aberta a ordem,historico
+"Oi, quando vou ter o meu veículo de volta obg",prazo
+"então, explica o defeito do hb20 obrigado",diagnostico
+"EI, QUAIS PECAS FORAM TROCADAS?",pecas
+tem previsão pra terminar,prazo
+"olá, o q foi substituído aí",pecas
+"e aí, quanto eu devo",valor
+qual o ttal a pagar obrigado,valor
+"e aí, esse status quer dizer o que",significado_status
+"Com licença, quanto está o orçamento do meu fiat por favor",valor
+"e aí, qnd vcs entregam o veículo obg",prazo
+"e aí, o prolema é na suspensão pfv",diagnostico
+"ei, me passa o valor?",valor
+"Moço, que peça vocês estão esperando?",pecas
+"então, o q deu no carro por favor",diagnostico
+O Q SIGNIFICA ORDEM ABERTA PFV,significado_status
+"Ei, o que foi encontrado no meu fiat?",diagnostico
+"pfv, vcs vendem pneu??",fora_escopo
+"Olá, colocaram peça original pfv",pecas
+"com licença, qnd entrou em manutenção por favor",historico
+DESCOBRIRAM O DEFEITO PFV,diagnostico
+"bom dia, quanto é a mão de obra mais peças pfv",valor
+"por favor, posso saber o andamento",status
+valeu pela infrmacao,saudacao
+"bom dia, o q voces substituiram no meu veiculo obg",pecas
+"E ai, onde fica a oficina rapidinho",fora_escopo
+"oi, alguem ai?",saudacao
+"boa tarde, teve troca de peça rapidinho",pecas
+"olá, não entendi o que significa aguardando diagnóstico me fala",significado_status
+Quero falar com o gerente me fala,fora_escopo
+"Olá, o q significa entregue me fala",significado_status
+o q deu no hb20,diagnostico
+atémais,saudacao
+vcs buscam o carro em casa aí,fora_escopo
+"Então, tem garantia o serviço por favor",fora_escopo
+"entao, por que o meu fiat esquentava",diagnostico
+teve troca de peca??,pecas
+"opa, quanto vai sair rpidinho",valor
+"moco, qual e o status rapidinho",status
+"por favor, em que etapa está o onix por favor",status
+"ei, queo reclamar do atendimento",fora_escopo
+"pfv, lista das peças?",pecas
+"e aí, quando começou o conserto aí",historico
+"bom dia, o meu carro tá prado aí pfv",status
+o que é diagnóstico pendente,significado_status
+"e aí, situação atual?",status
+"bom dia, o q é aguardando diagnóstico pfv",significado_status
+"oi, qual o problema do carrinho por favor",diagnostico
+"bom dia, que dia eu deixei o carro da minha esposa obg",historico
+"bom dia, cmo assim aguardando peças",significado_status
+"olá, tudobem?",saudacao
+"oi, vocês emitem nota fiscal?",fora_escopo
+"oi, me pass o valor",valor
+"EI, VAI FICAR CARO",valor
+"ei, o que significa cancelada ai",significado_status
+qual é o status do onix me fala,status
+"com licenca, quero saber como esta o conserto do meu gol rapidinho",status
+"opa, ate qnd fica pronto me fala",prazo
+alguma novidade sobre o meu veículo rapidinho,status
+"olá, o problema era grave",diagnostico
+"ei, valor total do veiculo rapidinho",valor
+"opa, qual peça está faltando",pecas
+"por favor, o que foi trocado pfv",pecas
+"pfv, até qnd fica pronto aí",prazo
+"com licenca, o que significa aguardando pecas?",significado_status
+"Então, o problema é na suspensão??",diagnostico
+"olá, valor do orçamento aí",valor
+"e ai, o que e aguardando diagnostico obg",significado_status
+a peca ja chegou,pecas
+"olá, colocaram peça original",pecas
+"Boa tarde, dá pra buscar hoje mefala",prazo
+"com licenca, o servico do carrinho ja comecou obg",status
+"BOM DIA, ROCARAM A CORREIA?",pecas
+"bom dia, status pronta pra entrega significa q já posso buscar",significado_status
+"entao, o que foi encontrado no carro ai",diagnostico
+"E ai, quanto vai sair por favor",valor
+"ei, vai ficar caro obriado",valor
+quais peças foram trocadas,pecas
+"oi, quanto vai sair por favor",valor
+"opa, qual o horario de funcionamento",fora_escopo
+consigo pegar o corolla amanha,prazo
+"Ei, qual o valor estimado",valor
+"opa, o que significa entregue?",significado_status
+o preço mudou,valor
+"pfv, qual peca esta faltando",pecas
+"Opa, posso saber o andamento me fala",status
+"ei, quanto tempo ainda falta obrigado",prazo
+"Boa tarde, o que quer dizer aberta??",significado_status
+"moço, quand abriram a ordem",historico
+"Moço, qnd começou o conserto??",historico
+"MOCO, HISTORICO DO AENDIMENTO PFV",historico
+"Com licença, mostra o histórico da ordem me fala",historico
+"certo, og",saudacao
+"moço, como anda o conserto me fala",status
+"E AÍ, UAL A PREVISÃO DE ENTREGA AÍ",prazo
+"opa, nao entendi o q significa aguardando diagnostico me fala",significado_status
+"E ai, me conta uma piada me fala",fora_escopo
+"bom dia, me conta uma piada me fala",fora_escopo
+"oi, fica pronto essa semana rapidinho",prazo
+agradço,saudacao
+"Com licenca, qnd o carro deu entrada pfv",historico
+qual o status do carro do meu vizinho??,fora_escopo
+"opa, como esta o meu carro ai",status
+Que dia foi aberta a ordem?,historico
+"por favor, como está o meu fiat?",status
+"Bom dia, falta muito pra terminar pfv",prazo
+"com licença, como está??",status
+"moço, me passa o valor??",valor
+"oi, o q aconteceu desde q deixei o carro do meu pai ai",historico
+"Oi, qnd começou o cnserto aí",historico
+"boa tarde, qual o andamento do serviço pfv",status
+"Boa tarde, o que significa entregue pfv",significado_status
+"oi, mostra o histórico da ordem por favor",historico
+"oi, previsão de quando fica pronto",prazo
+"e aí, o que aconteceu desde que deixei o meu gol obrigado",historico
+"bom dia, chegou a peça do carro da minha esposa",pecas
+"Entao, trocaram alguma peca?",pecas
+"pfv, demora quantos dias obrigado",prazo
+"por favor, qual o custo do serviço??",valor
+"boa tarde, o q significa entregue rapidinho",significado_status
+é coisa séria me fala,diagnostico
+"show, origado",saudacao
+"ola, o que significa ordem aberta",significado_status
+obrigda pela ajuda,saudacao
+ok,saudacao
+Quais peças entraram no serviço por favor,pecas
+"boa tarde, a peça já chegou pfv",pecas
+"moco, o que e esse aguardando??",significado_status
+"e ai, o que significa entregue?",significado_status
+"oi, o que significa ordem aberta rapidinho",significado_status
+"moço, qual o andamento do serviço??",status
+"moco, valor total do corolla",valor
+"Moco, quanto eu devo",valor
+"e aí, o que é esse aguardando pfv",significado_status
+"por favor, status pronta pra entrega significa que já posso buscar",significado_status
+"moco, qual acausa do barulho rapidinho",diagnostico
+Quais componentes foram trocados ai,pecas
+"moco, qual o horario de funcionamento por favor",fora_escopo
+"oi, qual foi o diagnostico?",diagnostico
+"ola, q dia eu deixei o carro do meu pai?",historico
+"Moco, tem garantia o servico rapidinho",fora_escopo
+valeu pela iformacao,saudacao
+posso saber o andamento aí,status
+"Moco, a peca ja chegou obg",pecas
+"ola, voces fazem alinhamento ai",fora_escopo
+"oi, o que foi encontrado no meu fiat??",diagnostico
+"boa tarde, consigo pegar o carro do meu pai amanhã?",prazo
+"Moco, o que significa ordem aberta??",significado_status
+"moço, em que pé está o serviço me fala",status
+"Oi, tem estacionamento rapidinho",fora_escopo
+"e aí, qnd vou ter o meu gol de volta me fala",prazo
+"Boa tarde, dá pra buscar hoje me fala",prazo
+"oi, o carro da minha esposa sai ate sexta??",prazo
+"ei, demora quantos dias obrigado",prazo
+"Certo, obrigado",saudacao
+Por q o meu veiculo esquentava por favor,diagnostico
+"boa tarde, o q foi encontrado no meu carro?",diagnostico
+"olá, quanto vai custar",valor
+O meu fiat sai até sexta?,prazo
+"E aí, quanto tempoainda falta obrigado",prazo
+"opa, o problema é na suspensão obg",diagnostico
+"Opa, qnd vocês entregam o corolla aí",prazo
+"e ai, em quantos dias termina me fala",prazo
+qual o prazo do conserto,prazo
+"Show, og",saudacao
+"boa tarde, como assim aguardando peças?",significado_status
+"moco, e coisa seria",diagnostico
+"e ai, ate quando fica pronto pfv",prazo
+explica o defeito do meu veiculo rapidinho,diagnostico
+"por favor, o que significa cancelada pfv",significado_status
+quantas pecas foram trocadas pfv,pecas
+"Entao, qual o orcamento??",valor
+"com licenca, ual o telefone da oficina",fora_escopo
+"olá, o carrinho está prado aí",status
+"Opa, tem alguma atualização",status
+"por favor, quero falar com o gerente por favor",fora_escopo
+aceita pix,fora_escopo
+"ei, quando voces entregam o hb20 rapidinho",prazo
+"Opa, quais pecas entraram no servico",pecas
+"ENTAO, JA TERMINARAM O CARRO DO MEU PAI OBRIGADO",status
+"com licença, o que significa ordem abera",significado_status
+"Boa tarde, vcs emitem nota fiscal",fora_escopo
+Como anda o conserto?,status
+"Oi, em que etapa está o carro da minha esposa obg",status
+"ei, o q voces substituiram no hb20 me fala",pecas
+"BOA TARDE,O CARRO DA MINHA ESPOSA TÁ PARADO AÍ",status
+quanto vou pagar,valor
+como assim aguardando peças rapidinho,significado_status
+"por favor, teve troca de peca me fala",pecas
+ta bom entao,saudacao
+"show, obriado",saudacao
+"por favor, a peca ja chegou?",pecas
+"bom dia, acharam o problema?",diagnostico
+"oi, como esta o carro da minha esposa obrigado",status
+"ei, quando fica pronto??",prazo
+"pfv, explica o defeito do corolla obrigado",diagnostico
+"olá, qual o andamento do serviço?",status
+"pfv, o mecânico descobriu o q é",diagnostico
+entendi obg,saudacao
+q material vai ser usado??,pecas
+descobriram o defeito obrigado,diagnostico
+"bom dia, atualizacao do caro??",status
+"Boa arde, o que quebrou?",diagnostico
+"ei, quanto vou pagar pfv",valor
+"por favor, posso saber o andamento pfv",status
+"moço, quanto custa o conserto do carro da minha esposa origado",valor
+status pronta pra entrega significa que já posso buscar rapidinho,significado_status
+como está o meu caro?,status
+"moco, desde quando esta aguardando pecas por favor",historico
+"Boa tarde, já tem o valor final?",valor
+"ola, qual foi o diagnostico??",diagnostico
+"E AI, O QUE CAUSOU O DEFEITO POR FAVOR",diagnostico
+"ei, dá pra trocar o óleo tb??",fora_escopo
+"moco, quais pecas vao usar",pecas
+"Olá, posso mudar o mecânico??",fora_escopo
+"Pfv, qnd vou ter o corolla de volta rapidinho",prazo
+Q horas posso passar pra pegar,prazo
+"oi, quando começou o conserto obg",historico
+"entao, qnd abriram a ordem?",historico
+"Pfv, quando fica pronto?",prazo
+como está me fala,status
+qnd foi feito o diagnóstico obrigado,historico
+"ei, descobriram o defeito??",diagnostico
+"pfv, quais peças foram trocadas?",pecas
+"Olá, qual o valor estimado??",valor
+"então, demora quantos dias por favor",prazo
+"BOM DIA, O Q QUER DIZER EM MANUTENCAO",significado_status
+até mais,saudacao
+"Ei, como tá por favor",status
+"ola, voces emitem nota fiscal??",fora_escopo
+o que esta erradocom o carrinho por favor,diagnostico
+"Então, o que é ess aguardando",significado_status
+"bom dia, valor total docarro",valor
+"opa, fica pronto essa semana?",prazo
+"opa, o que significa cancelada pfv",significado_status
+"Boa tarde, o q quer dizer aberta??",significado_status
+"OPA, ONDE FICA A OFICINA OBRIGADO",fora_escopo
+"e aí, em q etapa está o carro da minha esposa",status
+"E aí, uero cancelar o serviço por favor",fora_escopo
+valor total do meu carro obg,valor
+entenido,saudacao
+"Boa tarde, qual o orçamento??",valor
+"moco, o que e diagnostico pendente rapidinho",significado_status
+A PEÇA JÁ CHEGOU,pecas
+"Moço, explica o que é e manutenção por favor",significado_status
+"boa tarde, acharam o problema rapidinho",diagnostico
+"Moço, quanto deu o serviçoaí",valor
+"oi, quais foram a atualizacoes ai",historico
+Qual o defeito encontrado?,diagnostico
+"Olá, quero saber como tá o conserto do carrinho",status
+Por q o corolla esquentava pfv,diagnostico
+"Bom dia, q dia o carro do meu pai fica pronto?",prazo
+"opa, o problema era grave?",diagnostico
+"olá, quais foram as atualizações pfv",historico
+tá bom então,saudacao
+"olá, trocaram a correia",pecas
+"opa, vcs trabalham com carro elérico",fora_escopo
+"Olá, a peçajá chegou pfv",pecas
+"ei, explica o q é em manutenção obrigado",significado_status
+QU HORAS POSSO PASSAR PRA PEGAR ME FALA,prazo
+"pfv, qnd entrou emmanutenção??",historico
+"com licenca, quanto vou pagar?",valor
+"ola, quais etapas ja passaram??",historico
+Boatarde,saudacao
+"Olá, quem ganhou o jogo ontem",fora_escopo
+"Por favor, tem lava jato aí aí",fora_escopo
+"com licença, qual foi o diagnóstico pfv",diagnostico
+"bom dia, o que o meu fiat tem me fala",diagnostico
+"oi, qual o custo do serviço?",valor
+"BOM DIA, QND ENTROU EM MANUTENCAO POR FAVOR",historico
+"e a, como ficou o carrinho",status
+O problema era grve rapidinho,diagnostico
+"e ai, vai demorar muito",prazo
+"e aí, trocaram a correia obg",pecas
+"oi, alguém í?",saudacao
+"Entao, da pra trocar o oleo tambem?",fora_escopo
+tdo bem,saudacao
+"entao, falta muito pra terminar me fala",prazo
+"com licença, o que significa entregue",significado_status
+"boa tarde, quanto ficou obg",valor
+Quai foram as atualizações pfv,historico
+Quanto esta o orcamento do meu gol por favor,valor
+"boa tarde, alguma novidade sobre o carro",status
+previsao de quando fica pronto pfv,prazo
+"então, qndvocês entregam o carro obg",prazo
+"Opa, o q é diagnóstico pendente",significado_status
+"EI, COMO ASSIM AGUARDANDO PECAS?",significado_status
+"opa, quanto ficou",valor
+Quais componentes foram trocados rapidinho,pecas
+"ei, quando fica pronto por favor",prazo
+q dia eu deixei o veículo obg,historico
+por que o meu gol esquentava pfv,diagnostico
+"oi, quero agendar uma revisão me fala",fora_escopo
+O que quebrou me fala,diagnostico
+"entao, qual o preco ai",valor
+Nao entendi o que significa aguardando diagnostico,significado_status
+"então, desde qnd está aguardando peças",historico
+"ola, quantas pecas foram trocadas??",pecas
+"POR FAVOR, ATE QUANDO FICA PRONTO ME FALA",prazo
+qual é o status??,status
+O QUE SIGNIFICA ENTREGUE PFV,significado_status
+o que deu no hb20,diagnostico
+"e ai, me recomenda um seguro me fala",fora_escopo
+"EI, QUAL A DATA DE ENTREGA?",prazo
+"boa tarde, ja esta pronto obrigado",status
+"oi, qnd posso buscar o carro da minha esposa obg",prazo
+o q e esse aguadando?,significado_status
+"ei, quero cancelar o serviço rapidinho",fora_escopo
+"E aí, fica pronto essa semana pfv",prazo
+"por favor, qual é o status?",status
+quando vou ter o carro de volta,prazo
+quando abriram a rdem pfv,historico
+"Opa, nao entendi o q significa aguardando diagnostico ai",significado_status
+bo dia,saudacao
+"EI, QUAL FOI O DIAGNÓSTICO?",diagnostico
+"Ola, qual peca foi pedida rapidinho",pecas
+colocaram peca original ai,pecas
+consigo egar o carro da minha esposa amanha obg,prazo
+"pfv, posso parcelar pfv",fora_escopo
+"olá, me recomenda um seguro aí",fora_escopo
+"pfv, linha do tempo do servico?",historico
+valeu pla informação,saudacao
+"com licenca, me explica o status",significado_status
+"O, alguem ai?",saudacao
+"bom dia, explica o que e em manutencao por favor",significado_status
+"boa tarde, qual o custo do serviço por favor",valor
+quando mudou o status pfv,historico
+"oi, quanto tempo ainda fata por favor",prazo
+"moco, qnd posso buscar o carrinho??",prazo
+"boa tarde, como ficou o carrinho",status
+vcs trabalham com carro elétrico pfv,fora_escopo
+"e aí, o q quer dizer aberta pfv",significado_status
+o preço mudou rapidinho,valor
+"oi, o preço mudou",valor
+"Boa tarde, tem novidade da minha ordem aí",status
+"com licença, quais etapas já passaram pfv",historico
+"Com licença, quando começou o conserto me fala",historico
+"entao, tem vaga de emprego pfv",fora_escopo
+"Ola, valor do orcamento",valor
+"oi, já esá pronto?",status
+"Boa tarde, quanto é a mão de obra mais peças",valor
+"ola, qual o status do carro do meu vizinho obrigado",fora_escopo
+"boa tarde, quando abriram a ordem??",historico
+"Moço, o que o veículo tem pfv",diagnostico
+"pfv, qual a causa do barulho me fala",diagnostico
+"Oi, o q significa etregue obrigado",significado_status
+"e aí, quando libera o carrinho me ala",prazo
+"Pfv, o mecanico descobriu o q e pfv",diagnostico
+"Ei, o que foi subsituído??",pecas
+"opa, qual o preco por favor",valor
+"Boa tarde, tem prazo pra ficar pronto por favor",prazo
+"por favor, o que quer dizer aberta pfv",significado_status
+"ola, o q significa esse status rapidinho",significado_status
+qual a data de entrega?,prazo
+"então, o mecânico já está trabalhando no onix por favor",status
+que dia o meu carro fica pronto pfv,prazo
+"ola, udo bem?",saudacao
+"Bom dia, quanto e a mao de obra mais pecas",valor
+muito obrigdo,saudacao
+"entedi, obg",saudacao
+"então, quanto vou pagar",valor
+vcs fazem alinhamento obrigado,fora_escopo
+valor total do meu fiat?,valor
+está em manutenção ainda?,status
+"Ei, quando foi feito o diagnóstico",historico
+"Então, o meu fiat ainda tá na fia??",status
+"e aí, o carrinho tá parado aí",status
+"opa, quero reclamar do atendimento porfavor",fora_escopo
+"BOM DIA, HÁ QUANTO TEMPO O CARRO ESTÁ AÍ RAPIDINHO",historico
+"pfv, como assim aguardando peças?",significado_status
+"Oi, não entendi o que significa aguardando diagnóstico",significado_status
+"bom dia, qual o valor estimado?",valor
+O que já foi feito até agora pfv,historico
+o que quer dizer em manutenção obrigado,significado_status
+"ei, qual a origem do problema aí",diagnostico
+"Boa tarde, qnd o meu veiculo deu entrada me fala",historico
+valor total do carrinho??,valor
+"Pfv, o que significa pronta para entrega aí",significado_status
+O  vocês substituíram no corolla por favor,pecas
+"ola, linha do tempo do servico me fala",historico
+"olá, o carrinho sai até sexta aí",prazo
+"op, previsão de quando fica pronto pfv",prazo
+"por favor, me mostra tudo que aconteceu",historico
+"opa, quais peças vão usar por favor",pecas
+origado,saudacao
+"Por favor, como está por favor",status
+"olá, me explica o status",significado_status
+Qual a causa do barulho por favor,diagnostico
+"E AI, QUAL O PROBLEMA DO CARRINHO RAPIDINHO",diagnostico
+"Pfv, quais peças entraram no serviço rapidinho",pecas
+qual o problema do carro?,diagnostico
+ok entedi,saudacao
+"Oi, chegou a peça do corolla?",pecas
+"Moço, o mecânico já está trabalhando no corolla por favor",status
+"e aí, o problema é na suspensão",diagnostico
+"boa tarde, qnd posso buscar o veículo pfv",prazo
+"oi, vcs buscam o carro em casa",fora_escopo
+"opa, onde fic a oficina me fala",fora_escopo
+me explica o status obg,significado_status
+"BOA TARDE, VALOR TOTAL DO MEU CARRO ME FALA",valor
+"OLÁ, O QUE É DIAGNÓSTICO PENDENTE??",significado_status
+"boa tarde, tem prazo pra ficar pronto??",prazo
+"oi, o carrodo meu pai já ficou pronto",status
+"com licenca, o carro do meu pai ja ficou pronto ai",status
+"bom dia, o que significa cancelada",significado_status
+"ola, tudo be?",saudacao
+"com licença, acharam o problema aí",diagnostico
+"entao, me passa o valo?",valor
+"Boa tarde, situação atual?",status
+Tudo em,saudacao
+"oi, o que voces substituiram no carro?",pecas
+"Entao, qual o valor do conserto rapidinho",valor
+"bom dia,o que é diagnóstico pendente?",significado_status
+"Ei, há quanto tempo o carro da minha esposa está aí?",historico
+"opa,onde fica a oficina?",fora_escopo
+status obrigado,status
+quando vocês entregam o carro aí,prazo
+"então, o que é diagnóstico pendente por favor",significado_status
+"olá, não entendi o que significa aguardando diagnóstico obrigado",significado_status
+"Opa, ja esta pronto me fala",status
+"olá, que material vai ser usado?",pecas
+"com licença, o que foi trocado me fala",pecas
+"e aí, falta muito pra terminar??",prazo
+Muto obg,saudacao
+"bom dia, qual a causa do barulho me fala",diagnostico
+"show,obg",saudacao
+"oi, que material vai ser usado me fala",pecas
+"moço, me explica o status rapidinho",significado_status
+"com licenca, tem estacionamento rapidinho",fora_escopo
+Vocês fazem alinhamento??,fora_escopo
+"então, quanto vai sair rapidinho",valor
+"bom dia, o que e diagnostico pendente rapidinho",significado_status
+"show, obigado",saudacao
+"Bom dia, o que foi substituido",pecas
+"beeza, valeu",saudacao
+chegou a peça do meu fiat obg,pecas
+que peca voces estao esperando rapidinho,pecas
+"opa, qual o horário de funcionamento rapidinho",fora_escopo
+"ola, me mostra tudo que aconteceu pv",historico
+"Oi, qual a origem do problema?",diagnostico
+Qual a data de entrega obg,prazo
+"com licença, me passa o valor obrigado",valor
+"Moço, tem alguma atualização",status
+"opa, o serviço do meu veículo já começou",status
+"Opa, o mecanico ja esta trabalhando no viculo?",status
+"E AI, QUANTO DEU O SERVICO AI",valor
+"Bom dia, qual o status do carro do meu vizinho?",fora_escopo
+"ei, qual o problema doonix?",diagnostico
+"então, quanto ficou a conta por favor",valor
+"e ai, tem alguma atualizacao pfv",status
+"entao, o que significa cancelada rapidinho",significado_status
+"ola, situacao atual ai",status
+entenddo,saudacao
+DESCOBRIRAM O DEFEITO?,diagnostico
+"Olá, descobriram o defeito rapidinho",diagnostico
+"então, descobriram o defeito aí",diagnostico
+Aradeco,saudacao
+"pfv, já tem o valor final aí",valor
+quando mudou o status??,historico
+"e aí, o q está errado com o hb20 me fala",diagnostico
+"oi, quando libera o meu fiat pfv",prazo
+"olá, tem prvisão para terminar",prazo
+"bom dia, que dia foi aberta a ordem obg",historico
+"oi, q peçavcs estão esperando obg",pecas
+"boa tarde, qual a data d entrega aí",prazo
+"ola, tudo bm?",saudacao
+aguardando peças quer dizer  quê aí,significado_status
+o q é diagnóstico pendente?,significado_status
+"Moço, quais peças entraram no serviço por favor",pecas
+"moço, linha do tempo do serviço aí",historico
+"ei, não entendi o status rapidinho",significado_status
+O que aconteceu desde que deixei o meu veículo por favor,historico
+"oi, quando entrou em manutenção rapidinho",historico
+"Bom dia, o problema era grave",diagnostico
+"opa, fica pronto essa semana aí",prazo
+BOA TRDE,saudacao
+"moco, posso parcelar me fala",fora_escopo
+"E ai, que materal vai ser usado",pecas
+"Oi, vai ficar caro rapidinho",valor
+"ETENDI, OBG",saudacao
+"e ai, q dia foi aberta a ordem ai",historico
+"OPA, EM QUANTOS DIAS TERMINA?",prazo
+"bom dia, quando abriram a ordem me ala",historico
+"com licenca, como ta?",status
+"moco, qual a origem do problema?",diagnostico
+"EI, O QUE DEU NO B20 ME FALA",diagnostico
+"Boa tarde, q dia eu deixei o meu carro??",historico
+"e aí, o q significa aguardando peças",significado_status
+"Oi, o mecânico já tá trabalhando no carro rapidinho",status
+me mostra tudo que aconteceu obrigado,historico
+"Por favor, quando mudou o status?",historico
+"ei, o preco mudou rapidinho",valor
+moço já terminaram o veículo me fala,status
+"Com licenca, quando abriram a ordem",historico
+"oi, o que vcs encontraram rapidinho",diagnostico
+"boa tarde, demora quantos dias",prazo
+"pfv, quero cancelar o servço pfv",fora_escopo
+"oi, qual o custo do serviço aí",valor
+"com licenca, ha quanto tempo o carrinho esta ai",historico
+"boa tarde, precisou trocar alguma coisa??",pecas
+valeu pela nformação,saudacao
+QUERO CANCELAR O SERVIÇO AÍ,fora_escopo
+Origada pela ajuda,saudacao
+"olá, já passou por quais etpas",historico
+"moço, tem novidade da minha ordem?",status
+teve troca de peca?,pecas
+"e aí, como tá o carrinho aí",status
+"e aí, status pronta pra entrega significa q já posso buscar?",significado_status
+Temdesconto obg,fora_escopo
+"boa tarde, vcs buscam o carro em casa pfv",fora_escopo
+"ei, o q significa ordem aberta pfv",significado_status
+te previsão para terminar pfv,prazo
+"com licenca, quais peas vao usar por favor",pecas
+"CETO, OBRIGADO",saudacao
+"ei, onde fica a oficina me fala",fora_escopo
+"Opa, quais peças vão usar",pecas
+"pfv, nao entendi o status me fala",significado_status
+"Então, quais foram as atualizações",historico
+"então, quando vou ter o carrinho de volta por favor",prazo
+"e aí, o problema é na suspensão pfv",diagnostico
+"BOM DIA, JA TEM O VALOR FINAL",valor
+"por favor, o q aconteceu desde q deixei o carro do meu pai??",historico
+"PFV, QUANTO É A MÃO DE OBRA MAIS PEÇAS",valor
+o mecânico descobriu o que é rapidinho,diagnostico
+"opa, não entendi o que significa aguardando diagnóstico pfv",significado_status
+"oi, quais pecas foram trocadas?",pecas
+"Ola, tem alguma atualizacao??",status
+"boa tarde, me mostra tudo que aconteceu pfv",historico
+já passou por quais etapas,historico
+valeu pela informacao,saudacao
+"Pfv, posso saber o andamento??",status
+quais pecas foram trocaas me fala,pecas
+"oi, precisou trocar alguma coisa me fala",pecas
+"pfv, como assim aguardando pecas??",significado_status
+"Enendi, obrigado",saudacao
+TUO BEM,saudacao
+"oi, o preco mudou??",valor
+"entao, qual o status do carro o meu vizinho",fora_escopo
+"OLÁ, QUE MATRIAL VAI SER USADO??",pecas
+"então, o serviço do carro do meu pai já começou pfv",status
+"com licenca, me passa o valor por favor",valor
+quais peças entraram no serviço?,pecas
+"Ei, já passou por quais etapas?",historico
+olá,saudacao
+"Oi, qnd posso buscar o meu carro ai",prazo
+"certo, obg",saudacao
+"por favor, em quantos dias termina",prazo
+quero cancelar o serviço??,fora_escopo
+"por favor, qual a situacao do carro do meu pai?",status
+"opa, quanto custa o conserto do meu gol?",valor
+"então, o q significa cancelad??",significado_status
+"ola, esse status quer dizer o que?",significado_status
+"pfv, me conta uma piada me fala",fora_escopo
+O QUE QUER DIZER EM MANUTENÇÃO,significado_status
+"Então, me passa o valor pfv",valor
+desde quandoesta aguardando pecas obrigado,historico
+"oi, como está aí",status
+"Beleza, aleu",saudacao
+"Boa tarde, quanto e a mao de obra mais pecas pfv",valor
+"OLÁ, QUAL O VALOR ESTIMADO RAPIDINHO",valor
+"boa tarde, o q quer dizer aberta obrigado",significado_status
+"e aí, qnd foi feito o diagnóstico",historico
+"moço, alguma novidade sobre o carro do meu pai me fala",status
+"então, posso mudar o mecânico obg",fora_escopo
+"pfv, quando o carro do meu pai deu entrada?",historico
+moco tem vaga de emprego,fora_escopo
+"e aí, já tem o valor final pfv",valor
+"com licença, por q o hb20 estava falhando",diagnostico
+"moço, quand o carrinho deu entrada pfv",historico
+"e aí, chegou a peça do meu veículo",pecas
+valeu pea informação,saudacao
+"opa, tem prazo pra ficar pronto me fala",prazo
+"e aí, por que o carro do meu pai estava falhando?",diagnostico
+"e aí, qual a situação do corolla",status
+tudo bem,saudacao
+"Moco, historic do atendimento obg",historico
+"boa tarde, como tá me fala",status
+"ei, qual o valor do conserto??",valor
+"ei, o carrinho sai até sexta",prazo
+"e aí, quanto vai sair pfv",valor
+"E AI, POSSO MUDAR O MECANICO",fora_escopo
+"Boa tarde, o q significa ordem aberta?",significado_status
+"opa, q peça vocês estão esperando??",pecas
+Entedido,saudacao
+"belez, valeu",saudacao
+quais componentes foram trocados pv,pecas
+"Com licenca, quanto vai sair obg",valor
+"e aí, como está?",status
+"boa tarde, qual o telefone da oficina",fora_escopo
+"por favor, tem desconto",fora_escopo
+"POR FAVOR, QUAIS COMPONENTES FORAM TROCADOS POR FAVOR",pecas
+"moco, tem estacionamento?",fora_escopo
+"com licença, o serviço do onix já começou?",status
+"boa tarde, valor total do onix rapidinho",valor
+O q já foi feito até agoa pfv,historico
+"Ei, aceitam cartao?",fora_escopo
+"oi, quais pecas vao usar?",pecas
+"Com licença, explica o q é em manutenção",significado_status
+"ei, tem prazo pra ficar pronto me fala",prazo
+"e aí, o que significa esse status",significado_status
+"ei, qual a situação do corolla obg",status
+"Entao, quanto ficou rapidinho",valor
+"e í, quanto tempo ainda falta??",prazo
+"moco, voces vendem pneu por favor",fora_escopo
+"bom ia, quanto custa o conserto do meu veículo rapidinho",valor
+"beleza, vaeu",saudacao
+"Moço, o q causou o defeito aí",diagnostico
+que material vai ser usado pfv,pecas
+"ei, situação atual",status
+"e aí, explica o defeitodo carro do meu pai??",diagnostico
+"bom dia, voces vedem pneu ai",fora_escopo
+"MOÇO, O PREÇ MUDOU PFV",valor
+"entao, o problema era grave??",diagnostico
+"COM LICENÇA, QUANTAS PEÇAS FORAM TROCADAS OBG",pecas
+"COM LICENÇA, JÁ TEM O VALOR FINAL OBRIGADO",valor
+"pfv, falta muito pra termiar",prazo
+"por favor, qual o total a pagar?",valor
+"com licenca, o que esta acontecendo com o carro agora?",status
+"OLÁ, TDO BEM?",saudacao
+Agraeço,saudacao
+o onix está parado aí,status
+Vai demorar muito??,prazo
+O QUE FOI ENCONTRADO NO ONI?,diagnostico
+"oi, lina do tempo do serviço",historico
+"certo, bg",saudacao
+"Pfv, lista das peças me fala",pecas
+obigada pela ajuda,saudacao
+"Olá, não entendi o q significa aguardando diagnóstico?",significado_status
+quanto  a mão de obra mais peças pfv,valor
+"pfv, o carrinho tá parado aí pfv",status
+"olá, falta muito pra terminar",prazo
+"certo, origado",saudacao
+o q significa aguardando peças obrigado,significado_status
+"pf, mostra o histórico da ordem??",historico
+"moco, ha quanto tempo o meu gol esta ai??",historico
+"Bom dia, desde quando está aguardando peças rapidinho",historico
+"então, mostra o histórico da ordem?",historico
+"moço, o serviço do meu veículo já começou pfv",status
+"bom dia, esta em manutencao ainda obrigado",status
+Status pronta pra entrega significa q já posso buscar obrigado,significado_status
+"Oi, demora quantos dis",prazo
+"Por favor, a peca ja chegou??",pecas
+"Bom dia, não entendi o status pfv",significado_status
+"bom dia, o q significa entregue ai",significado_status
+"Ei, qual e o status obrigado",status
+"Boa tarde, qual o defito encontrado",diagnostico
+"olá, o que é diagnóstico pendente obrigado",significado_status
+"Ei, qual é o status do hb20",status
+Tchau,saudacao
+"BOM DIA, QUE DIA FOI ABERTA A ORDE AI",historico
+"moço, qual o telefone da oficina??",fora_escopo
+q dia foi aberta a ordem obg,historico
+"COM LICENÇA, TEM DESCONTO PFV",fora_escopo
+"entao, q peca voces estao esperando",pecas
+o problema era grave pfv,diagnostico
+"ei, por que o carro estava falhando obrigado",diagnostico
+que dia o carrinho fica pronto pfv,prazo
+"Opa, esse status quer dizer o que pfv",significado_status
+"E aí,dá pra trocar o óleo também por favor",fora_escopo
+"ei, que dia foi aberta a ordem??",historico
+"ei, acharam o problema",diagnostico
+"Moço, que peça vcs estão esperando obrigado",pecas
+o meu veículo já ficou pronto obg,status
+"com licença, valor total do meu gol por favor",valor
+"oi, algué aí?",saudacao
+"olá, tudo bem?",saudacao
+Esse status quer dizer o que?,significado_status
+Qual peca esta faltando me fala,pecas
+"OPA, COMO ESTÁ O VEÍCULO??",status
+"Entao, explica o defeito do carro da minha esposa",diagnostico
+Me mostra tudo que aconteceu por favor,historico
+"opa, trocaram a correia?",pecas
+"Oi,alguem ai?",saudacao
+"oi, que material vai ser usado por favor",pecas
+"moco, q peca voces estaoesperando?",pecas
+teve troca de peça obrigado,pecas
+"boa tarde, o mecanico descobriu o que e obrigado",diagnostico
+"moco, voces trabalham com carro eletrico??",fora_escopo
+"Entao, tem garantia o servico me fala",fora_escopo
+"ei, esse stats quer dizer o q pfv",significado_status
+"OI, QUAL A ORIGEM DO PROBLEMA",diagnostico
+"ei, valor total do carrinho rapidinho",valor
+"EI, QND ENTROU EM MANUTENCAO AI",historico
+"ola, o que aconteceu desde que deixei o carrinho por favor",historico
+"olá, precisou trocar alguma coisa por favor",pecas
+"moço, quando foi feito o diagnóstico",historico
+quanto esta o orcamento do carro?,valor
+"Pfv, o que significa pronta para entrega??",significado_status
+"e aí, quero agendar uma revisão",fora_escopo
+me passa o valor?,valor
+em quantos dias termina,prazo
+"boa tarde, o preço muou??",valor
+quero cancelar o servico ai,fora_escopo
+"moço, quanto vi sair rapidinho",valor
+"ei, linha do tempo do serviço?",historico
+ok entndi,saudacao
+o que voces encontraram?,diagnostico
+Qnd mudou o status me fala,historico
+"boa tarde, qual o orçamento?",valor
+"por favor, tem desconto obrigado",fora_escopo
+"Boa tarde, quais peças vão usar obrigado",pecas
+Quando abriram a ordem rapidinho,historico
+"E ai, qual a data de entrega?",prazo
+"então, quais peças vão usar",pecas
+"Entao, qual a data de entrega obg",prazo
+"por favor, como tá pfv",status
+"Bom dia, quanto tempo ainda falta por favor",prazo
+bo tarde,saudacao
+"por favor, nao entendi o status por favor",significado_status
+"oi, qual o total a pagar obg",valor
+"então,como tá o veículo pfv",status
+"Por favor, quanto ficou por favor",valor
+O que deu no meu gol obrigado,diagnostico
+valeu pela informção,saudacao
+"PFV, O QUE É ESSE AGUARDANDO",significado_status
+"Com licença, já tem o valor final me fala",valor
+"então, quanto tempo ainda falta",prazo
+"E ai, qnd vou ter o meu veiculo de volta",prazo
+"oi, o que aconteceu desde que deixei o carrinho por favor",historico
+Ok etendi,saudacao
+"Opa, voces emitem nota fiscal pfv",fora_escopo
+"Bom dia, como ficou o hb20 pfv",status
+Obrigada pela ajda,saudacao
+"pfv, o preço mudou pfv",valor
+"ei, quando vou ter o carro do meu pai de volta?",prazo
+"Oi, qual o orçamento?",valor
+"oi, quanto deu o serviço",valor
+"bom dia, desde quando esta aguardando pecas",historico
+"OI, QND POSSO BUSCAR O HB20 ME FALA",prazo
+"E o h20, como está",status
+"bom dia, há quanto tempo o meu fiat está aí pfv",historico
+"Bom dia, já começaram a mexer no veículo me fala",status
+"Ola, tem garantia o servico me fala",fora_escopo
+"Boa tarde, falta muito pra terminar pfv",prazo
+"Pfv, quanto está o rçamento do carro??",valor
+"oi, trocaram alguma peça me fala",pecas
+"entao, quanto esta o orcamento do carro pfv",valor
+"OPA, VCS BUSCAM O CARRO EM CASA",fora_escopo
+"bom dia, quanto eu devo me fala",valor
+"OI, JÁ PASSOU POR QUAI ETAPAS PFV",historico
+"por favor, falta muito pra terminar",prazo
+"então, o carro da minha esposa já ficou pronto??",status
+"e aí, quando vou ter o veículo de volta?",prazo
+"opa, qanto vou pagar obg",valor
+FAZEM FUILARIA?,fora_escopo
+"E o carro do meu pai, como esta",status
+"oi, está em manutenção ainda aí",status
+dá pra trocar o óleo também rapidnho,fora_escopo
+"Ei, data prevista de entrega?",prazo
+"boa tarde, quanto vai custar me fala",valor
+o que o corolla tem rapidinho,diagnostico
+"entao, quais componentes foram trocados obrigado",pecas
+qual o status do crro do meu vizinho rapidinho,fora_escopo
+"opa, teve troca de peça obg",pecas
+"com licença, qual o custo do serviço?",valor
+"opa, quando o meu veículo deu entrada?",historico
+"pfv, o q foi encontrado no hb20??",diagnostico
+"moço, chegou a peça do carro raidinho",pecas
+"boa tarde, o que significa auardando peças me fala",significado_status
+"Moço, qual foi o diagnóstico pfv",diagnostico
+"oi, o problema era grave me fala",diagnostico
+"Com licenca, alguma novidade sobre o meu carro?",status
+"show, obrgado",saudacao
+"enendi, obg",saudacao
+Q peça vocês colocaram no hb20 pfv,pecas
+"Ei, o que e aguardando diagnostico",significado_status
+O problema e na suspensao pfv,diagnostico
+Quantas peças foram trocadas pfv,pecas
+"por favor, qual o custo do serviço",valor
+"Entendi,obrigado",saudacao
+"opa, quando fica pronto",prazo
+"boa tarde, nao entendi o que significa aguardando diagnostico me fala",significado_status
+"certo, obrgado",saudacao
+"com licença, mostra o histórico da ordem obrigado",historico
+"olá, valor total do onix pfv",valor
+lista das peças obrigado,pecas
+"então, qual a causa do barulho me fala",diagnostico
+"Ola, qual o valor do conserto?",valor
+até ais,saudacao
+"E ai, quando entrou em manutencao",historico
+"Bom dia, quando entrou em manutenção por favor",historico
+até mis,saudacao
+"olá, tem lva jato aí",fora_escopo
+"oi, esse status quer dizer o q por favor",significado_status
+"BOM DIA, O Q SIGNIFICA CANCELADA ME FALA",significado_status
+"Oi, posso saber o andamento obrigado",status
+"oi, lista das peças pfv",pecas
+"OI, VALOR DO ORCAMENTO ME FALA",valor
+"oi, o q tá acontecendo com o corolla agora?",status
+o q quer dizer em manutenção,significado_status
+"por favor, quais components foram trocados?",pecas
+"e aí, qual a data de entrega",prazo
+Voces abrem sabado,fora_escopo
+"e aí, qual o problema do meu gol rapidinho",diagnostico
+"opa, que dia o meu carro fica pronto??",prazo
+"então, linha do tempo do serviço",historico
+"Bom dia, o preco mudou",valor
+"Ei, possoparcelar obrigado",fora_escopo
+"Boa tarde, o que e diagnostico pendente",significado_status
+valeu pela infomação,saudacao
+ACHARAM O PROBLEMA PFV,diagnostico
+quais etapas já passaram,historico
+"Bom dia, ha quanto tempo o veiculo esta ai me fala",historico
+POR Q O MEU FIAT ESTAVA FALHANDO POR FAVOR,diagnostico
+"moço, posso parcelar rapidinho",fora_escopo
+"E AÍ, O HB20 ESTÁ PARDO AÍ??",status
+"olá, qual peça foi pedida?",pecas
+Status da ordem pfv,status
+"E AÍ, QUAL O PROBLEMA DO CARRO RAPIDINHO",diagnostico
+"e aí, já tem o valor final rapidinho",valor
+"olá, qual o problema do carrinho me fala",diagnostico
+"então, qual o prazo do conserto aí",prazo
+"Moço, como anda o conserto obg",status
+"Oi, quais peças vão usar pfv",pecas
+"Moço, já começaram a mexer no veículo?",status
+quantas peças foram trocadas?,pecas
+"olá, aguardando peças quer dizer o quê me fala",significado_status
+Quantas pecas foram trocadas??,pecas
+"Boa tarde, quais peças foram trocadas me fala",pecas
+quanto vai custar??,valor
+o preço mudou?,valor
+"então, o mecânico já está trabalhando no carro",status
+o que ja foi feito ate agora mefala,historico
+obrigada pelaajuda,saudacao
+"com liceca, o que significa aguardando pecas",significado_status
+"bom dia, o que está errado com o carro da minha esposa obrigado",diagnostico
+QUAL É O STATUS?,status
+"Com licença, quero saber como está o conserto do carrinho por favor",status
+"olá, qual peça tá faltando aí",pecas
+"bom dia, vocês abrem sábado??",fora_escopo
+"entao, desde quando esta aguardando pecas??",historico
+"por favor, aceitam cartão?",fora_escopo
+"shw, obg",saudacao
+"por favor, vai ficar caro??",valor
+"bom dia, qual é o status do meu fiat aí",status
+"Ei, que peca voces estao esperando pfv",pecas
+Valor do orçamento rapidinho,valor
+"boa tarde, é o motor e fala",diagnostico
+"Oi, atualizacao do meu fat??",status
+VOCÊS VENDEM PNEU??,fora_escopo
+"Entao, explica o que e em manutencao me fala",significado_status
+"etendi, obrigado",saudacao
+"opa, queo reclamar do atendimento",fora_escopo
+"opa, qual o custo do servico?",valor
+"CERTO,OBRIGADO",saudacao
+"por favor, qual peça foi pedida",pecas
+"Bom dia, o q foi encontrado no corolla?",diagnostico
+"moco, status pronta pra entrega significa que ja posso buscar?",significado_status
+o q vcs substituíram no carro da minha esposa,pecas
+"ei, é coisa séria?",diagnostico
+"BOM DIA, FAZEM FUNILARIA??",fora_escopo
+qual a melhor gasolina pr favor,fora_escopo
+status pfv,status
+"e ai, vai demorar muito ai",prazo
+"Oi, valor total do carro rapidinho",valor
+o que quer dizer em manutencao?,significado_status
+"oi, qnd o veiculo deu entrada",historico
+"EI, QUANTO FICOU A CONTA OBRIGADO",valor
+"por favor, que peca voces estao esperando obg",pecas
+valeu pela infrmação,saudacao
+"entao,qnd comecou o conserto",historico
+Previsão de quando fica pronto aí,prazo
+posso saber o andamento,status
+"entao, ja comcaram a mexer no onix??",status
+"Opa, o meu carro sai até sexta por favor",prazo
+"Show, obrigao",saudacao
+"Ola, da pra buscar hoje obrigado",prazo
+"oi, quais pecas entraram no servico pfv",pecas
+"pfv, qnd mudou o status rapidinho",historico
+"moço, aceitam cartão",fora_escopo
+"olá, o que significa ordem aberta pfv",significado_status
+qual é o status do meu carro aí,status
+"ei, o carro da minha esposa esta parado ai",status
+"e ai, explica o defeito do veiculo por favr",diagnostico
+"Opa, esse status quer dizer o que?",significado_status
+"por favor, qual o horário de funcionamento",fora_escopo
+"com icença, quando libera o carro rapidinho",prazo
+Obrigada pel ajuda,saudacao
+o que foi substituido?,pecas
+"boa tarde, que peça vcs colocaram no meu carro obrigado",pecas
+"Com licença, tem previsão pra terminar obg",prazo
+"boa tarde, por que o onix esquentava??",diagnostico
+"Ei, em q pé tá o serviço me fala",status
+"Oa, quanto deu o servico me fala",valor
+"bom dia, ha quanto tempo  onix esta ai?",historico
+boa oite,saudacao
+"BOM DIA, O QUE SIGNIFICA PRONTA PARA ENTREGA AÍ",significado_status
+o problema era grave,diagnostico
+"com licença, o mecânico já está trabalhando no meu fiat?",status
+voces abrem saado ai,fora_escopo
+"pfv, é o motor rapidinho",diagnostico
+"então, vcs fazem alinhamento rapidinho",fora_escopo
+"oi, qual o prco",valor
+"olá, que horas posso passar pra pegar me fala",prazo
+"bom dia, ja terminaram o meu veiculo",status
+"e ai, qnd o carro do meu pai deu entrada ai",historico
+Tá bm então,saudacao
+qual a causa do arulho me fala,diagnostico
+"opa, teve troca de peça me fala",pecas
+"bom dia, qual o preço?",valor
+"COM LICENÇA, DATA PREVISTA DE ENTREGA ME FALA",prazo
+"COM LICENÇA, QUE MATERIAL VAI SER USADO PFV",pecas
+obg,saudacao
+"por favor, quand posso buscar o carro me fala",prazo
+Muit obg,saudacao
+"bom dia, como anda o conserto pfv",status
+"ei, e o carro da minh esposa, como tá",status
+"Com licenca, desde qnd esta aguardando pecas??",historico
+"então, o que quebrou?",diagnostico
+"por favor, qual a origem do problema me fala",diagnostico
+"Ei, qual a sitacao do carro me fala",status
+Quero saber coo esta o conserto do veiculo,status
+perfeio,saudacao
+"pf, o q é esse aguardando?",significado_status
+tem prazo pra ficar pronto pfv,prazo
+"Oi, já passou por quais etapas me fala",historico
+"opa, o que voces substituiram no veiculo pfv",pecas
+o carro da minha esposa está parado aí aí,status
+"boa tarde, quais pecas vao usar",pecas
+"e aí, o q significa pronta para entrega rapidinho",significado_status
+"boa tarde, quando mudou o status obrigado",historico
+"Olá, tem estacionamento",fora_escopo
+"por favor, quais peças vão usar me fala",pecas
+"com licença, quanto vai custar aí",valor
+"então, o hb20 sai até sexta rapidinho",prazo
+"Boa tarde, o q quebrou??",diagnostico
+"com licença, o que é diagnóstico pendente?",significado_status
+"com licença, qual a situação do meu gol aí",status
+"boa tarde, quando vcs entregam o carro??",prazo
+"olá, não entendi o q significa aguardando diagnóstico obrigado",significado_status
+"e aí, por que o onix esquentava por favor",diagnostico
+"oi, lista das peças me fala",pecas
+Agradco,saudacao
+"Olá, dá pra trocar o óleo também pfv",fora_escopo
+"Boa tarde, quando abriram a ordem obrigado",historico
+"ola, quais pecas vao usar",pecas
+Quem ganhou o jogo ontem obrigado,fora_escopo
+Tá bo então,saudacao
+"Bom dia, previsão de qnd fica pronto me fala",prazo
+"E AÍ, O QUE QUER DIZER EM MANUTNÇÃO??",significado_status
+"Com licença, qual o preço??",valor
+"por favor, da pra trocar o oleo tambem rapidiho",fora_escopo
+"Oa, qual a origem do problema rapidinho",diagnostico
+"então, como tá rapidinho",status
+"ei, o que significa ordem aberta me fala",significado_status
+"boa tarde, o q o meu gol tem obg",diagnostico
+como ficou o meu veículo,status
+"opa, qual o total a pagar me ala",valor
+"Bom dia, a peça já chegou pfv",pecas
+"opa, ja terminaram o meu gol por favor",status
+Consigo pegar o carro da minha esposa amanha ai,prazo
+"moço, quais etapas já passaram rapidinho",historico
+"ei, o  significa ordem aberta",significado_status
+Trocaram a correia pfv,pecas
+"e aí, me passa o valor pfv",valor
+"olá, em quantos dias termina rapidinho",prazo
+"ei, onde fica a oficina obrigado",fora_escopo
+"oi, quanto tempo ainda alta pfv",prazo
+"Então, me passa o valor",valor
+"Oi, q horas posso passar pra pegar rapidinho",prazo
+"oa, qual o status do carro do meu vizinho",fora_escopo
+trocaram alguma peça me fala,pecas
+"bom di, qual o valor do conserto pfv",valor
+não entendi o que significa aguardando diagnóstico,significado_status
+"por favor, status da ordem??",status
+qual a data de entrega me fala,prazo
+"Bom dia, qual a previsão de entrega",prazo
+conigo pegar o carrinho amanha?,prazo
+agradeo,saudacao
+"Oi, fica pronto essa semana?",prazo
+em q etapa tá o corolla pfv,status
+"entao, o que ja foi feito ate agora por favor",historico
+"opa, q pça vcs estão esperando",pecas
+"e aí, quero falar com o gernte?",fora_escopo
+"Ei, como está",status
+muio obrigado,saudacao
+"então, qual a situação do meu carro me fala",status
+"Então, o q vcs encontraram pfv",diagnostico
+linha do tempo do serviço aí,historico
+"bom dia, o que foi substtuído",pecas
+"moco, q dia foi aberta a ordem??",historico
+obigado,saudacao
+"bom dia, quando começou o conserto?",historico
+"Olá, o q quer dizer aberta rapidinho",significado_status
+"Bom dia, me conta uma piada ai",fora_escopo
+"Cm licenca, trocaram a correia me fala",pecas
+ok ntendi,saudacao
+agradeço,saudacao
+Esse status quer dizer o que,significado_status
+qual a avaria??,diagnostico
+"entao, desde quando esta aguardando pecas",historico
+"bom dia, o que é aguardando diagnóstico",significado_status
+"com licença, fica pronto essa semana",prazo
+bom ia,saudacao
+"moço, q peça vocês estão esperando obg",pecas
+"por favor, o q foi substituído me fala",pecas
+"entao, o mecanico descobriu o que e por favor",diagnostico
+Quantas pecas foram trocadas?,pecas
+"ceto, obg",saudacao
+EXPLICA O Q É EM MANUTENÇÃO PFV,significado_status
+"boa tarde, qual o valor do conserto",valor
+"opa, em quantos dias termina me fala",prazo
+"com licença, data prevista de entrega obg",prazo
+Qual o horario de funcionamento,fora_escopo
+quando posso buscar ocarro do meu pai??,prazo
+"Com licença, qual o status??",status
+vale pela informação,saudacao
+"por favor, falta muito pra terminar?",prazo
+"ei, o que significa cancelada me fala",significado_status
+"opa, o q significa cancelada por favor",significado_status
+quais pecas foram trocadas??,pecas
+"Bom dia, me conta uma piada?",fora_escopo
+"OLA, ONDE FICA A OFICINA",fora_escopo
+LINHA DO TEMPO DO SERVIÇO RAPIDINHO,historico
+"bom dia, o que significa aguardando peças??",significado_status
+Me mostra tudo qaconteceu??,historico
+"e aí, quero saber como está o conserto do hb20 me fala",status
+"opa, já passou por quais etapas",historico
+"e aí, q material vai ser usado",pecas
+"entendi, og",saudacao
+fica pronto essa semana rapidinho,prazo
+"Com licenca, linha do tempo do servico?",historico
+"e ai, qual o total a pagar obrigado",valor
+"COM LICENCA, QUAL PECA ESTA FALTANDO PFV",pecas
+"Moço, a peça já chegou me fala",pecas
+"por favor, tem prazo pra ficar pronto",prazo
+"por favor, colocaram peça original aí",pecas
+"ei, o que foi encontrado no onix?",diagnostico
+"OI, Q HORAS POSSO PASSAR PRA PEGAR??",prazo
+"Bom dia, desde qnd tá aguardando peças",historico
+"OI, O QUE QUER DIZER EM MANUTENÇÃO?",significado_status
+"com licença, desde quando está aguadando peças aí",historico
+"oá, qual o status do carro do meu vizinho me fala",fora_escopo
+"opa, qual o preço me fala",valor
+"BOM DIA, O PRECO MUDOU??",valor
+"Então, colocaram peça original?",pecas
+"Bom dia, explica o defeitodo hb20 aí",diagnostico
+"opa, vocês fazem alinhamento",fora_escopo
+"bom dia, qual o total a pagar",valor
+"Entao, voces emitem nota fiscal me fala",fora_escopo
+Agrdeco,saudacao
+"boa tarde, quero cancelar o servico?",fora_escopo
+voces emitem nota fiscal,fora_escopo
+"olá, posso mudar o mecânico?",fora_escopo
+"bom dia, quanto tempo ainda falta me fala",prazo
+"entao, tem prazo pra ficar pronto obg",prazo
+"pfv, me recomenda um seguro?",fora_escopo
+precisou troca alguma coisa pfv,pecas
+"bom dia, lista das peças por favor",pecas
+"oi, dá pr trocar o óleo também?",fora_escopo
+"pfv, o q sigifica entregue",significado_status
+"EI, TROCARAM A CORREIA RAPIDINHO",pecas
+e o motor pfv,diagnostico
+"pfv, qnd mudou o status?",historico
+o que significa pronta pra entrega,significado_status
+"Entao, qual o status do carro do meu vizinho pfv",fora_escopo
+o que aconteceu desde que deixei o corolla,historico
+"pfv, vocês vendem pneu",fora_escopo
+"moco, o q significa entregue",significado_status
+vai ficar caro,valor
+como ta?,status
+"com licença, é o motor",diagnostico
+"olá, dá pra trocar o óleo tb?",fora_escopo
+"OLÁ, Q DIA FOI ABERTA A ORDEM??",historico
+"Boa tarde, vai demorr muito obrigado",prazo
+Quanto tempo ainda falta aí,prazo
+"Oi, quanto vou pagar me fala",valor
+esse status quer dizer o que pfv,significado_status
+"oi, aguém aí?",saudacao
+"por favor, o mecânico descobriu o que é me fala",diagnostico
+"ei, lista das peças",pecas
+Naoentendi o status,significado_status
+obrigada pela juda,saudacao
+"oi, nao entendi o que significa aguardando diagnostico obrigado",significado_status
+"belea, valeu",saudacao
+falta muito pra terminar,prazo
+E aí o q foi trocado rapidinho,pecas
+"por favor, qual a avaria?",diagnostico
+"Pfv, quantas peças foram trocadas??",pecas
+q dia eu deixei o meu fiat me fala,historico
+"Oi, algum aí?",saudacao
+"E aí, quero agendar uma revisão rapidinho",fora_escopo
+"PFV, O Q SIGNIFICA ORDEM ABERTA?",significado_status
+"boa tarde, quanto vai custar",valor
+"moço, data prevista de entrega?",prazo
+quando voces entregam o meu carro,prazo
+"oi, quanto e a mao de obra mais pecas",valor
+"por favor, qual o custo do servico",valor
+"Entao, q dia foi aberta a ordem",historico
+"opa, o que e esse aguardando",significado_status
+"BOA TARDE, EM Q PE ESTA O SERVICO?",status
+"e ai, qual o defeitoencontrado obg",diagnostico
+"ENTÃO, VA FICAR CARO",valor
+"e aí, mostra o histórico da ordem??",historico
+"boa tarde, o hb20 sai até sexta",prazo
+"opa, teve troca de peca",pecas
+"Olá, como ficou o meu fiat",status
+bom dia,saudacao
+"com licença, a peça já chegu",pecas
+"oi, qual a avaria pfv",diagnostico
+"entao, qual o problema do meu gol?",diagnostico
+"ei, o onix sai ate sexta me fala",prazo
+"boa tarde, como assim aguardando peças",significado_status
+O que foi substituído?,pecas
+"Olá, qual é o statu pfv",status
+é coisa séria aí,diagnostico
+"E aí, qual o telefone da oficina aí",fora_escopo
+"e ai, como ta o carrinho?",status
+"BOA TARDE, ACHARAM O PROBLEMA",diagnostico
+"moço, trocaram a correia",pecas
+"Então, dá pra trocar o óleo também me fala",fora_escopo
+"OPA, O Q VOCES SUBSTITUIRAM NO MEU CARRO PFV",pecas
+"Olá, que dia o onix fica pronto?",prazo
+Ta bom ento,saudacao
+Fazem funilaria?,fora_escopo
+Pefeito,saudacao
+o que quer dizer aberta aí,significado_status
+ola quais foram as atualizacoes,historico
+Quanto e a mao de obra mais pecas,valor
+"Ei, quanto vai custar me fla",valor
+Mito obrigado,saudacao
+Valeu pela inormação,saudacao
+posso mudar o mecânico aí,fora_escopo
+obrigada pea ajuda,saudacao
+"Boa tarde, não entendi o status aí",significado_status
+"oi, já tem o valor final obg",valor
+o que foi trocado,pecas
+oi quanto eu devo me fala,valor
+"boa tarde, o que aconteceu desde que deixei o meu veiculo?",historico
+"BOM DIA, O Q SIGNIFICA ESE STATUS?",significado_status
+Voces emitem nota fiscal?,fora_escopo
+"moço, explic o que é em manutenção",significado_status
+"bom dia, o que quer dizer em manutenção obrigado",significado_status
+"OI, MOSTRA O HISTÓRICO DA ORDEM",historico
+"Bom dia, quais pecas foram trocadas",pecas
+"Cero, obg",saudacao
+"ei, status??",status
+"Por favor, atualizacao do carro rapidinho",status
+"boa tarde, o que significa esse status obg",significado_status
+"com licença, qual o defeito encontrado pfv",diagnostico
+"boa tarde, por que o meu fiat estava alhando obg",diagnostico
+"moço, o q significa pronta para entrega aí",significado_status
+"POR FAVOR, QUAL O DEFEITO ENCONTRADO ME FALA",diagnostico
+"ei, o servico do meu carro ja comecou por favor",status
+"ei, já está pronto?",status
+me explica o status me fala,significado_status
+"bom dia, me explica o status?",significado_status
+"bom dia, quais foram as atualizações pfv",historico
+"Olá, está em manutenção ainda??",status
+é o motor?,diagnostico
+obrigado,saudacao
+"ei, chegou a peca do carro da minha esposa",pecas
+"boa tarde,o corolla já ficou pronto?",status
+"ei, qual o status do carro do meu vizinho obrigado",fora_escopo
+"oi, algém aí?",saudacao
+"olá, udo bem?",saudacao
+"ei, o que voces encontraram?",diagnostico
+"com licença, descobriram o defeito pfv",diagnostico
+"BOA TARDE, O PROBLEMA É NA SUSPENSÃO OBRIGADO",diagnostico
+"COM LICENCA, O Q SIGNIFICA ORDEM ABERTA RAPIDINHO",significado_status
+"show,obrigado",saudacao
+"então, é coisa séria",diagnostico
+"enta, lista das pecas pfv",pecas
+"o, quando fica pronto obrigado",prazo
+"ei, o preco mudou??",valor
+"E aí, qual a avaria me fala",diagnostico
+qual a avaria rapidinho,diagnostico
+trocaram alguma peça rapidinho,pecas
+tem garantia o servic??,fora_escopo
+"boa tarde, por que o veículo esquentava",diagnostico
+"E ai, esse status quer dizer o que rapidinho",significado_status
+quais pecas entraram no servico??,pecas
+"opa, qual o valor do conserto",valor
+"pfv, já tá pronto",status
+"bom dia, staus?",status
+"opa, qualo defeito encontrado?",diagnostico
+quais componentes foram trocados,pecas
+Em que pé está o servço?,status
+"pfv, quais peças entraram no erviço rapidinho",pecas
+"olá, consigo pegar o carrinho amanhã rapidinho",prazo
+"pfv, é coisa séria pfv",diagnostico
+"Então, qual o orçamento?",valor
+"por favor, quanto tempo ainda falta por favor",prazo
+"Bom dia, quis componentes foram trocados?",pecas
+"Ei, q material vai ser usado pfv",pecas
+"opa, e o motor?",diagnostico
+"boa tarde, fica pronto essa semana obrigado",prazo
+"bom dia, status da ordem?",status
+Ate mas,saudacao
+como assim aguardando peças obrigado,significado_status
+"ei, hitórico do atendimento por favor",historico
+"boa tarde, o que voces encontraram",diagnostico
+"moço, lista das peças",pecas
+"entao, vai ficar caro ai",valor
+"com licenca, teve troca de peca?",pecas
+"Oi, previsão de qnd fica pronto pfv",prazo
+Tem garantia o serviço por favor,fora_escopo
+Quas pecas foram trocadas,pecas
+"bom dia, vai ficar caro",valor
+"opa, tem lava jato ai??",fora_escopo
+"Bom dia, valor do orçamento",valor
+"bom dia, precisou trocar alguma coisa",pecas
+"e aí, o que já foi feito até agora aí",historico
+"opa, o q foi encontrado no corolla?",diagnostico
+"Ola, quais pecas vao usar obg",pecas
+quero falar com o gerente rapidinho,fora_escopo
+"olá, quanto deu o serviço pfv",valor
+"oi, o q aconteceu desde q deixei o meu carro?",historico
+"ola, tdo bem?",saudacao
+"Moço, qual peça foi pedida obg",pecas
+"olá, tudo em?",saudacao
+"ei, tem garantia o serviço aí",fora_escopo
+"ei, explica o q é em manutenção",significado_status
+quais peças vão usar aí,pecas
+"moço, dsde quando tá aguardando peças",historico
+"Ola, ja comecaram a mexer no onix",status
+"opa, por q o carro do meu pai estava falhando rapidinho",diagnostico
+"bom dia, já tem o valor final?",valor
+"então, o problema era grave rapidinho",diagnostico
+"Boa tard, esse status quer dizer o que",significado_status
+"ei, me recomenda um seguro",fora_escopo
+"Oi, vocês trabalham com carro elétrico me fala",fora_escopo
+"pfv, quero reclamar do atendimento?",fora_escopo
+"olá, o que significa aguardando peças me fala",significado_status
+"por favor, não entendi o que significa aguardando diagnóstico?",significado_status
+"olá, fazem funilaria pfv",fora_escopo
+"Bom dia, qual o status aí",status
+"opa, qual o status do carro do meu vizinho pfv",fora_escopo
+"Oá, tudo bem?",saudacao
+"opa, o que é aguardando diagnóstico?",significado_status
+"opa, é coisa séria rapidinho",diagnostico
+"boa tarde, quando o corolla deu entrada",historico
+"entao, qual foi o diagnostico obrigado",diagnostico
+"com licença, qual a avaria me fala",diagnostico
+"boa tarde, qual a melhor gasolina",fora_escopo
+"Bom dia, tem alguma atualização rapidinho",status
+obrigada ela ajuda,saudacao
+t bom então,saudacao
+PERFEITO,saudacao
+MUITO OBRIGADO,saudacao
+"Moço, qual a causa do barulho",diagnostico
+AGADEÇO,saudacao
+Quais foram as atualizacoes pfv,historico
+"boa tarde, quais foram as atualizações??",historico
+"então, o q significa esse status rapidinho",significado_status
+"Com licenca, tem alguma atualizacao obrigado",status
+"Ola, quem ganhou o jogo ontem obg",fora_escopo
+o serviço do meu gol já começou?,status
+"E ai, aceitam cartao pfv",fora_escopo
+já começaram a mexer no meu fiat rapidinho,status
+"oi, tem previsão para terminar pfv",prazo
+"Ei, ate quando fica pronto",prazo
+"olá, quando fica pronto",prazo
+"bleza, valeu",saudacao
+tem alguma atualização por favor,status
+"sho, obg",saudacao
+"entao, o preco mudou",valor
+"com licença, o q quebrou",diagnostico
+"boa tarde, quanto tempo ainda falta??",prazo
+"e ai, qual o horario de funcionamento ai",fora_escopo
+Quanto tempo ainda falta,prazo
+pereito,saudacao
+"então, o que é diagnóstico pendente?",significado_status
+"boa tarde, voces vedem pneu?",fora_escopo
+"bom dia, tem alguma atualzação aí",status
+"pfv, o q causou o defeito pfv",diagnostico
+"Ei, o que quebrou pfv",diagnostico
+ta bom etao,saudacao
+quando vou ter o carrinho de volta pfv,prazo
+"Bom dia, que material vai ser usado?",pecas
+"e aí, posso saber o ndamento me fala",status
+"EI, O Q JÁ FOI FEITO ATÉ AGORA??",historico
+é coisa séria pfv,diagnostico
+oi alguem ai?,saudacao
+"Olá, quanto va sair aí",valor
+"entao, o que significa esse status??",significado_status
+então descobriram o defeito me fala,diagnostico
+"Entao, qual a avaria ai",diagnostico
+"E AÍ, O QUE SIGNIFICA ORDEM ABERTA RAPIDINHO",significado_status
+valeu pela inforação,saudacao
+"Bom dia, quanto e a mao de obra mais pecs?",valor
+"boa tarde, como assim aguardando pecas ai",significado_status
+"então, tem desconto??",fora_escopo
+o problema e na suspensao ai,diagnostico
+"OPA, E O MOTO PFV",diagnostico
+"Então, lista das peças?",pecas
+"então, não entendi o que significa agardando diagnóstico?",significado_status
+"e aí, q dia eu deixei o meu veículo??",historico
+O mecanico ja estatrabalhando no onix obg,status
+qnd fica pronto rapidinho,prazo
+"e aí, esse status quer dizer o q por favor",significado_status
+"moço, como está",status
+o veículo anda está na fila me fala,status
+O q significa aguardando pecas?,significado_status
+"oi, alguémaí?",saudacao
+Quero cancelar o servico me fala,fora_escopo
+"Por favor, em vaga de emprego aí",fora_escopo
+"bom dia, quando posso buscar o meu gol pfv",prazo
+"bom dia, explica o q é em manutenção pfv",significado_status
+"bom dia, tá em manutenção ainda rapidinho",status
+"bom dia, aguardando peças quer dizer o quê aí",significado_status
+Quantas peças foram trocadas,pecas
+"oi, qual o valor estimado obg",valor
+já começaram a mexer no carrinho??,status
+QUAL A DATA DE ENTREGA,prazo
+"bom dia, o carrinho sai ate sexta??",prazo
+qual o preço pfv,valor
+"moco, aceitam cartao?",fora_escopo
+"Boa tarde, o que significa aguardando pecas",significado_status
+"CERTO, OBRIGAO",saudacao
+"PFV, QUANDO FICA PRONTO RAPIDINHO",prazo
+"com licença, falta muito pra terminar por favor",prazo
+"Opa, tem lava jato aí rapidinho",fora_escopo
+tá om então,saudacao
+"Entao, quanto custa o conserto do hb20 ai",valor
+"olá, valor total do carro do meu pai rapidinho",valor
+qual o horário de funcionamento?,fora_escopo
+"opa, o que aconteceu desde que deixei o veiculo",historico
+"COM LICENÇA, ME MOSTRA TUDO QUE ACONTECEU",historico
+o que e aguardando diagnostico or favor,significado_status
+"boa tarde, qnd vou ter o hb20 de volta",prazo
+"Beleza, vleu",saudacao
+certo obg,saudacao
+"oi, consigo pegar o corolla amanhã??",prazo
+"entao, quais pecas foram trocadas",pecas
+quero saber como está o conserto do corolla rapidinho,status
+Quais pecas entraram no servico pfv,pecas
+"pfv, teve troca de pça obg",pecas
+"OI, ESSE STATUS QUER DIZER O QUE??",significado_status
+ENTNDIDO,saudacao
+"entendi, obrigao",saudacao
+"olá, quando entrou em manutenção me fala",historico
+"com licença, que peça vcs colocaram no meu fiat",pecas
+"E ai, linha do tempo do servico rapidinho",historico
+Posso parcelar rapidinho,fora_escopo
+"boa tarde, qnd comecou o conserto obrigado",historico
+quais componentes foram trocados me fala,pecas
+"por favor, qual o status",status
+Já tem o valor final obrigado,valor
+"opa, colocaram peça original",pecas
+"show, bg",saudacao
+"com licenca, e o moor??",diagnostico
+"por favor, vai ficar caro?",valor
+"boa tarde, qual a situação do meu gol??",status
+o que aconteceu desde que deixei o onix??,historico
+"entao, acharam o problema pfv",diagnostico
+"opa, que dia eu deixi o onix",historico
+ate mais,saudacao
+qnd o meu veículo deu entrada rapidinho,historico
+"por favor, qual o valor estimado??",valor
+"bom dia, o que foi encontrado no corolla i",diagnostico
+vai demorar muito,prazo
+"OI, O QUE JA FOI FEITO ATE AGORA PFV",historico
+"Ei, qual a causa do barulho me fla",diagnostico
+"com icença, qual o valor estimado obg",valor
+"boa tarde, o que está errado com o meu veículo",diagnostico
+qual o problema do meu veículo??,diagnostico
+"então, quanto ficou a conta pfv",valor
+"bom dia, o que significa ordem aberta rapidinho",significado_status
+"oi, vcs emitem nota fiscal",fora_escopo
+Boa tare,saudacao
+"Pfv, quando foi feito o diagnostico ai",historico
+"Com licenca, qual o orcamento",valor
+"então, vcs fazem alinhamento",fora_escopo
+"opa, tem previsão para terminar?",prazo
+"bom dia, o que foi substituído pfv",pecas
+"oi, o que o carro da minha esposa tem obg",diagnostico
+"bom dia, o q significa aguardando peças?",significado_status
+"boa tarde, o meu carro já ficou pronto",status
+o serviço do meu carro já começou,status
+"boa tarde, q material vai ser usado?",pecas
+"oi, até qnd fica pronto?",prazo
+o problema é n suspensão aí,diagnostico
+"boa tarde, situação atual",status
+"Por favor, quando posso buscar o onix rapidinho",prazo
+Valeu ela informação,saudacao
+tem previsão pra terminar me fala,prazo
+"Com licença, qnd abriram a ordem??",historico
+"OLÁ, QUANDO O CARRO DA MINHA ESPOSA DEU ENTRADA PFV",historico
+"boa tarde, o  significa pronta pra entrega??",significado_status
+"Opa, o problema é na suspensão?",diagnostico
+"Então, por q o hb20 estava falhando rapidinho",diagnostico
+quanto deu o serviço me fala,valor
+"Ei, atualizacao do carro do meu pai",status
+"Ei, como anda o conserto por favor",status
+"ola, e o carro do meu pai, como esta",status
+"Oi, qual peça fi pedida obrigado",pecas
+"entao, o q voes encontraram pfv",diagnostico
+"ei, trocaram alguma peça aí",pecas
+"bom dia, o preço mudou rapidinho",valor
+"Oi, desde quando está aguardando peças?",historico
+"entao, qual a previsao de entrega",prazo
+"opa, que peça vcs colocaram no carro por favor",pecas
+"com licenç, qual o custo do serviço",valor
+"com licença, o que vcs substituíram no onix me fala",pecas
+"moco, quais pecas vao usar ai",pecas
+agadeco,saudacao
+ta bo entao,saudacao
+"ENTÃO, EXPLICA O DEFEITO DO CARRO",diagnostico
+o carro da minha esposa ainda tá na fila,status
+"MOÇO, ACEITAM CARTÃO PFV",fora_escopo
+"Então, o que significa aguardando peas?",significado_status
+"OLÁ, EM QUE ETPA TÁ O MEU CARRO??",status
+ta om entao,saudacao
+show obg,saudacao
+"Bom dia, status pronta pra entrega significa que já posso buscar obg",significado_status
+Olá tudo bem?,saudacao
+"oi, qual o defeito encontrado",diagnostico
+"pfv, o mecanico descobriu o que e",diagnostico
+muito obrigao,saudacao
+"moç, quanto custa o conserto do meu fiat aí",valor
+"ei, quando vou ter o meu veículo de volta??",prazo
+"e aí, quanto custa o conserto do meu fiat??",valor
+"oi, o que voces encontraram?",diagnostico
+"oi, quantas peças foram trocadas pfv",pecas
+"Oi, quando começou o conserto",historico
+Ae mais,saudacao
+"por favor, em que etapa está o carro da minha esposa??",status
+ate mis,saudacao
+"Com licença, quais peças entraram no serviço?",pecas
+"Olá, o que significa esse status",significado_status
+Como tá o carrinho?,status
+"Bom dia, é o motor obg",diagnostico
+"ei, quando posso buscar o meu carro porfavor",prazo
+QUAL O DEFEITO ENCONTRADO PFV,diagnostico
+"boa tarde, quais peças vão usar",pecas
+"por favor, valor do orçamento aí",valor
+bm dia,saudacao
+"ola, e coisa seria e fala",diagnostico
+"boa tarde, e coisa seria",diagnostico
+"opa, não entendi o que significa aguardand diagnóstico me fala",significado_status
+"Então, tem novidade da minha ordem?",status
+"e aí, me recomenda um seguro me fala",fora_escopo
+NAO ENTENDI O QUE SIGNIFICA AGUARDANDO DIAGNOSTICO RAPIDINHO,significado_status
+"Entao, que dia o meu fiat fica pronto?",prazo
+Valeu pel informação,saudacao
+"certo, brigado",saudacao
+tá bom etão,saudacao
+status pronta pra entrega significa que já posso buscar,significado_status
+"Por favor, o que foi substituído",pecas
+"boa tarde, voces vendem pneu pfv",fora_escopo
+"E aí, quando libera o meu fiat fv",prazo
+"moço, quanto está o orçamento do veículo rapidinho",valor
+"Moço, como tá o veículo",status
+"ola, previsao de quando fica pronto pfv",prazo
+"ei, quero agendar uma revisão",fora_escopo
+"ola, status da ordem?",status
+"olá, o q causou o defeito pfv",diagnostico
+"COM LICENCA, VOCES FAZEM ALINHAMENTO OBG",fora_escopo
+Qual o orcameno pfv,valor
+tá bom ento,saudacao
+"Cero, obrigado",saudacao
+enendido,saudacao
+"oi, qual a melhor gasolina",fora_escopo
+"moço, o q aconteceu desde q deixei o meu carro aí",historico
+"Oi, quanto vou pagar pfv",valor
+o problema ra grave,diagnostico
+"ei, status pronta pra entrega significa que já posso buscar",significado_status
+como assim aguardando pecas,significado_status
+O que e esse aguardando pfv,significado_status
+"Pfv, qual o telefone da oficina pfv",fora_escopo
+"com licença, quanto custa uma troca de óleo",fora_escopo
+"boa tarde, está em manutenção ainda pfv",status
+valeu pela iformação,saudacao
+me mostra tudo que aconteceu me fala,historico
+"Olá, quanto tempo ainda falta obrigado",prazo
+"oi, alguemai?",saudacao
+quais peças entraram no serviço,pecas
+"Boa tarde, qual a data de entrega",prazo
+Em quantos dias termina obrigado,prazo
+Como esá me fala,status
+"moço, o que já foi feito até agora",historico
+"entao, onde fica a oficina",fora_escopo
+o problema era grave aí,diagnostico
+"moço, omo anda o conserto rapidinho",status
+qnd foi feito o diagnostico rapidinho,historico
+"e aí, falta muito pra terminar pfv",prazo
+"ENTÃO, ALGUMA NOVIDADE SOBRE O HB20 POR FAVOR",status
+"opa, vai demorar muito pfv",prazo
+o problema é na suspensão?,diagnostico
+em quantos dias termina?,prazo
+"ei, quanto eu devo",valor
+qual a avaria pfv,diagnostico
+"SHOW, OBRIGADO",saudacao
+"olá, tudo be?",saudacao
+"E ai, qual peca esta faltando pfv",pecas
+e ai como anda o conserto?,status
+"com licenca, o problema e na suspensao me fala",diagnostico
+"E ai, o q ja foi feito ate agora rapidinho",historico
+"ei, vcs fazem alinhamento me fala",fora_escopo
+"Então, o carro da minha esposa está parado aí",status
+"EI, QUAL O HORARIO DE FUNCIONAMENTO RAPIDINHO",fora_escopo
+"com licença, como assim aguardando peças?",significado_status
+"bom dia, descobriram odefeito??",diagnostico
+"entendi, bg",saudacao
+"Ola, descobrirm o defeito rapidinho",diagnostico
+"boa tarde, o q foi encontrado no carro do meu pai obg",diagnostico
+"E aí, fica pronto essa semana",prazo
+quando mudou o stats rapidinho,historico
+"ei, vcs abrem sábado rapidinho",fora_escopo
+"Ei, voces vendem pneu ai",fora_escopo
+"belza, valeu",saudacao
+entendido,saudacao
+"bom dia, histórico do atendimento pfv",historico
+qual peca esta faltando pfv,pecas
+"ola, tud bem?",saudacao
+"então, tem estacionamento?",fora_escopo
+Qual o prolema do carrinho,diagnostico
+"COM LICENÇA,  COISA SÉRIA?",diagnostico
+"Boa tarde, status da ordem por favor",status
+O entendi,saudacao
+"Com licença, quanto vou pagar?",valor
+"Sow, obg",saudacao
+"pfv, o que deu no meu fiat",diagnostico
+tábom então,saudacao
+PREVISÃO DE QUANDO FICA PRONTO?,prazo
+"oi, alguém aí?",saudacao
+"OI, QUANDO VOU TER O CARRO DO MEU PAI DE VOLTA POR FAVOR",prazo
+"Enteni, obrigado",saudacao
+"bom dia, explica o defeito do onix pfv",diagnostico
+Qual foi o diagnóstico aí,diagnostico
+"por favor, quando voces entregam o hb20 ai",prazo
+"Ola, valor total do meu carro",valor
+"oi, quando abriram a ordem pfv",historico
+quero reclamar do atendimento pfv,fora_escopo
+"boa tarde, quanto tempo ainda falta pfv",prazo
+"oi, o mecânico já está trabalhando no carro?",status
+"Por favor, quais foram as atualizações rapidinho",historico
+OKENTENDI,saudacao
+QUANTO VAI CUSTAR OBRIGADO,valor
+"Por favor, quais pecas foram trocadas??",pecas
+"entao, ja tem o valor final",valor
+"ei, quero saber como está o conserto do hb20 aí",status
+Q peca voces estao esperando ai,pecas
+valeu pelainformação,saudacao
+qual o defeito encontrado aí,diagnostico
+"boa tarde, como ta o meu fiat?",status
+tem prazo ra ficar pronto obg,prazo
+"moco, voces fazem alnhamento",fora_escopo
+"moço, quando vocês entregam  carro da minha esposa rapidinho",prazo
+"então, o que quebrou por favor",diagnostico
+qal a causa do barulho rapidinho,diagnostico
+"Opa, explica o q é em manutenção",significado_status
+A peca ja chegou?,pecas
+qual o valor estimado,valor
+"e aí, como assim aguardando peçs pfv",significado_status
+Quanto eu devo pfv,valor
+"bom dia, histórico do atendimento rapidinho",historico
+muit obrigado,saudacao
+"Oi, atualização do hb20??",status
+boa note,saudacao
+O que foi encontrado no meu fiat rapidinho,diagnostico
+"moço, como está o carro??",status
+"boa tarde, que material vai ser usado??",pecas
+"ei, o q vcs substituíram no carro do meu pai obg",pecas
+"boa tarde, qual é o status do onix por favor",status
+"entendi, obg",saudacao
+"opa, me recomenda um seguro?",fora_escopo
+"entao, quem ganhou o jogo ontem",fora_escopo
+"show, brigado",saudacao
+quanto é a mão de obra mais peças me fala,valor
+"moco, explica o q e em manutencao?",significado_status
+"Ento, o problema e na suspensao ai",diagnostico
+"Boa tarde, me mostra tudo q aconteceu",historico
+"com licenca, alguma novidade sobre o meu caro rapidinho",status
+"com licença, o que significa cancelada?",significado_status
+"Oi, vcs fazem alinhamento aí",fora_escopo
+"BOA TARDE, O QUE FOI TROCADO?",pecas
+"Entao, o meu gol sai ate sexta me fala",prazo
+"oi, tem desconto",fora_escopo
+"boa tarde, status pronta pra entrega significa que já posso buscar obrigado",significado_status
+"Bom dia, já tem o valor final",valor
+"com licença, o que significa esse status",significado_status
+"bom dia, como assim aguardando peças pfv",significado_status
+"boa tarde, que dia o carro fica pronto",prazo
+"Opa, qual é o status do meu carro",status
+"e aí, quanto vou pagar??",valor
+"com licenca, qual o total a pagar pfv",valor
+"Pfv, qual a avaria",diagnostico
+"então, o que já foi feito até agora",historico
+"Bom dia, qual o orcamento",valor
+"moco, status pronta pra entrega significa que ja posso buscar ai",significado_status
+oi alguém aí?,saudacao
+"show, obg",saudacao
+"ei, qual o preço",valor
+"por favor, status da ordem ai",status
+"bom dia, tem previsão para terminar aí",prazo
+"boa tarde, quanto custa o conserto do carro da minha esposa",valor
+como ficou o hb20,status
+"com licenca, o que foi encontrado no meu carro ai",diagnostico
+Até quando fica pronto obg,prazo
+"oi, aluém aí?",saudacao
+"Por favor, quero reclamar do atendimento por favor",fora_escopo
+"entã, qual o custo do serviço?",valor
+"Moço, fica pronto essa semana pfv",prazo
+"então,desde qnd está aguardando peças",historico
+"entao, quais pecas entraram no servico obrigado",pecas
+é o motor aí,diagnostico
+"opa, o que já foi feito até agora?",historico
+"moço, como assim auardando peças me fala",significado_status
+"Opa, qual peca esta faltando?",pecas
+At mais,saudacao
+"bom dia, o q está acontecendo com o carrinho agra obrigado",status
+voces emtem nota fiscal,fora_escopo
+"bom dia, descobriram o defeito me fala",diagnostico
+"opa, o que já foi feito até agora",historico
+Até mas,saudacao
+qual o defeito encontrado me fala,diagnostico
+"com licença, quais peças foram tocadas?",pecas
+qual peça está faltando me fala,pecas
+"ei, o q foi trocado obg",pecas
+"ei, me explica o status obg",significado_status
+"moço, status pronta pra entrega significa que já possobuscar",significado_status
+"entao, qual peca esta faltando??",pecas
+"opa, descobriram o defeito pfv",diagnostico
+"oi, algum ai?",saudacao
+"opa, qual o total a pagar",valor
+EXPLICA O QUE É EM MANUTENÇÃO?,significado_status
+"e aí, o que quebrou rapidinho",diagnostico
+"E AÍ, QUAIS ETAPAS JÁ PASSARAM AÍ",historico
+"Olá, vocês vendem pneu pfv",fora_escopo
+VALEU,saudacao
+"por favor, valor do orcamento rapidinho",valor
+aceitam cartão pfv,fora_escopo
+quanto ficou a conta,valor
+"boa tarde, em que pé tá o serviço me fala",status
+vai demorar muito?,prazo
+"Bom dia, vocês abrem sábao??",fora_escopo
+"boa tarde, quanto vai sair por favor",valor
+"Pfv, qual a rigem do problema pfv",diagnostico
+"Entendi, brigado",saudacao
+"oi, aguem ai?",saudacao
+"bom dia, quando vou ter o corolla de volta aí",prazo
+"BOA TARDE, O Q SIGNIFICA PRONTA PARA ENTREGA ME FALA",significado_status
+"olá, explica o defeito do meu carro",diagnostico
+"por favor, o que quer dzer aberta por favor",significado_status
+"Moco, quando o hb20 deu entrada pfv",historico
+"Oi, q material va ser usado",pecas
+"ei, o mecânic descobriu o que é pfv",diagnostico
+status pronta pra entrega significa que já posso buscar me fala,significado_status
+"Bom dia, vai demorar muito?",prazo
+o q significa ordem aberta obrigado,significado_status
+ba tarde,saudacao
+"ola, ai demorar muito",prazo
+"boa tarde, o mecanico descobriu o que e",diagnostico
+"Oi, já terminaram o carro do meu pai rapiinho",status
+"moco, quando mudou o satus por favor",historico
+o que causou o defeito,diagnostico
+"Ola, historco do atendimento?",historico
+"Com licença, que peça vcs estão esperando me fala",pecas
+"e aí, qnd abriram a ordem?",historico
+Boa tade,saudacao
+"Então, fica pronto essa semana??",prazo
+"oi, posso mudar o mecânico pfv",fora_escopo
+"ei, fica prontoessa semana",prazo
+"E aí, quando omeu veículo deu entrada pfv",historico
+"olá, explica o q é em manutenção",significado_status
+"Oi, qual o total  pagar",valor
+"e ai, vai demorar muito por favor",prazo
+"com licenca, colocaram peca origial",pecas
+"com licença, qnd vocês entregam o meu fiat??",prazo
+"beleza, valu",saudacao
+"Entao, o q foi trocado rapidinho",pecas
+"entao, qual o telefone da oficina obrigado",fora_escopo
+"Então, previsão de quado fica pronto por favor",prazo
+Me mostra tudo que aconteceu,historico
+O QUE SIGNIFICA ESSE STATUS,significado_status
+"entendi, obrigado",saudacao
+"ei, quanto ficou a cona pfv",valor
+"Opa, linha do tempo do servico",historico
+"com licença, é coisa séria rapidinho",diagnostico
+"Ei, quando o carro deu entrada me fala",historico
+"oi, quanto é a mão de obra mais peças por favor",valor
+"E aí, o q significa cancelada?",significado_status
+TEM LAVA JATO AI RAPIINHO,fora_escopo
+"ei, me passa o valor aí",valor
+quanto custa uma troca de oleo,fora_escopo
+"Olá, o problema é na suspensão?",diagnostico
+"bom dia, qnd voces entregam o meu gol pfv",prazo
+qual a situação do hb20,status
+"Com licença, o problema é na suspensão pfv",diagnostico
+"e aí, qual peça foi pedidaaí",pecas
+"boa tarde, linha do tempo do serviço?",historico
+"com licença, o q significa entregue?",significado_status
+quero agendar uma revisao?,fora_escopo
+"Moco, qnd foi feito o diagnostico?",historico
+"por favor, já á pronto pfv",status
+"com licença, que dia o carrinho fica pronto",prazo
+Aradeço,saudacao
+"bom dia, explica o que é em manutenção",significado_status
+"e ai, quanto vai custar?",valor
+"Opa, quando mudou o status pfv",historico
+"ola, situacao atual pfv",status
+"Então, qual a data de entrega??",prazo
+"moco, qual e o status do hb20 ai",status
+"boa tarde, dá pra buscar hoje obrigado",prazo
+"show, obrigdo",saudacao
+boa nite,saudacao
+"MOÇO, QUAIS PEÇAS ENTRARAM N SERVIÇO?",pecas
+qual o custo do servico rapidinho,valor
+"bom dia, quero agendar uma revisao",fora_escopo
+valeu pela informação,saudacao
+valeu pela informaão,saudacao
+"OI, TEM LAVA JATO AÍ",fora_escopo
+"por favor, posso saber o andamento rapdinho",status
+"Boa tarde, quais pecas entraram no servico obg",pecas
+"Oi, quanto vai custar",valor
+"opa, quando abriram a ordem",historico
+"e aí, que dia o carro fica pronto por favor",prazo
+"ei, tem garantia o servico?",fora_escopo
+"e ai, como ficou o meu carro",status
+"OI, ME EXPLICA  STATUS?",significado_status
+"Opa, qnd o carro do meu pai deu entrada",historico
+"pfv, previsão de qnd fica pronto??",prazo
+"e aí, que dia o meu gol fica pronto",prazo
+"Então, qual o valor do conserto pfv",valor
+"boa tarde, o serviço do hb20 já começou aí",status
+"oi, fica pronto essa semana pfv",prazo
+"e ai, a peca ja chegou?",pecas
+"MOÇO, ACEITA PIX ME FALA",fora_escopo
+muito obriado,saudacao
+"BOM DIA, QUANDO O CARRO DA MINHA ESPOSA DEU ENTRADA?",historico
+tem vaga de emprego?,fora_escopo
+"Opa, posso saber o andamento?",status
+"ei, por q o hb20 estava falhando pfv",diagnostico
+esse status quer dizer o que rapidinho,significado_status
+"bom dia, o que aconteceu desde que deixei o onix",historico
+"Olá, quanto tempo ainda falta me fala",prazo
+"por favor, fazem unilaria?",fora_escopo
+"ola, quero agendar uma revisao",fora_escopo
+tá bom ntão,saudacao
+"Oi, lguém aí?",saudacao
+"olá, qual a melhor gsolina rapidinho",fora_escopo
+"E ai, o q significa ordem aberta",significado_status
+"por favor, colocaram peca original?",pecas
+obrgado,saudacao
+vcs abrem sábado??,fora_escopo
+"ei, ja passou por quais etapas pfv",historico
+bomdia,saudacao
+"Ei, vai ficar caro pfv",valor
+"opa, q dia foi aberta a ordem?",historico
+Tud bem,saudacao
+QUAIS PEÇAS FORAM ROCADAS OBRIGADO,pecas
+"olá, tem lava jato aí",fora_escopo
+"boa tarde, status aí",status
+"Oi, qual o custo do serviço",valor
+"opa, qual o valor do conserto me fala",valor
+"olá, vcs abrem sábado??",fora_escopo
+"então, já tem o valor final pfv",valor
+quando vou ter o corolla de volta,prazo
+"ei, não entendi o status?",significado_status
+o que significa pronta para entrega pfv,significado_status
+quando começou o conserto pfv,historico
+"moco, desde qnd esta auardando pecas ai",historico
+O MEU GOL AINDA ESTÁ NA FILA,status
+"olá, quanto vou pagar rapidinho",valor
+"Entao, qual a avaria pfv",diagnostico
+"e ai, consigo pegar o onix amanha ai",prazo
+"E aí, quando muou o status obrigado",historico
+"entao, por que o carro da minha esposa estava falhando?",diagnostico
+"ei, o q aconteceu desde q deixei o onix aí",historico
+"olá, tudo bm?",saudacao
+"com licença, o meu veículo sai até sexta me fala",prazo
+"bom dia, há quanto tempo o carro da minha esposa está aí aí",historico
+"E aí, tem alguma atualização??",status
+obrigad pela ajuda,saudacao
+o que ja foi feito ate agora?,historico
+"então, valor total do carro do meu pai",valor
+tudo bm,saudacao
+qual a origem do problema por favor,diagnostico
+"Por favor, o que é esse aguardando obg",significado_status
+"Oi, vcs trabalham com carro elétrico pfv",fora_escopo
+"Bom dia, esse status quer dizer o que ai",significado_status
+O que e diagnostico pendente,significado_status
+"opa, falta muito pra terminar pfv",prazo
+"OI, QUANTO VAI CUSTAR RAPIDINHO",valor
+"ei, historico do atendimento pfv",historico
+"Ei, quando o veiculo deu entrada obrigado",historico
+"Boa tarde, vcs emitem nota fiscal obg",fora_escopo
+"bom dia, voces trabalham com carro eletrico",fora_escopo
+"ei, o mecanico descobriu o q e ai",diagnostico
+O mecânico descobriu o que é me fala,diagnostico
+muito brigado,saudacao
+"oi, qual o orcamento por favor",valor
+"Com licença, quero reclamar do atendimento?",fora_escopo
+"ei, quanto ficou??",valor
+"Então, qual a origem do problema",diagnostico
+"Então, o ecânico descobriu o que é obrigado",diagnostico
+"oi, qual a causa do barulho por favor",diagnostico
+quanto vai sair,valor
+qual o total a pagar,valor
+"moco, vai demorar muito pfv",prazo
+quanto vou pagar aí,valor
+"bom dia, consigo pegar o meu veículo amanhã pfv",prazo
+"pfv, qnd posso buscar o carro do meu pai",prazo
+"ola, quais foram as atualizacoes?",historico
+obrigada pla ajuda,saudacao
+Obrigada pela auda,saudacao
+"bom dia, o q significa aguardando pecas ai",significado_status
+"Com licença, o q deu no corola?",diagnostico
+muito og,saudacao
+"Bom dia, já terminaram o corolla aí",status
+"E aí, qual a situação do carrinho obrigado",status
+"oi, qnd voces entregam o hb20 me fala",prazo
+qual a melhor gasolina obrigado,fora_escopo
+"OLÁ, FALTA MUITO PRA TEMINAR?",prazo
+"boa tarde, desde quando está aguardando peças rapidinho",historico
+Blz,saudacao
+"opa, quantas pecas foram trocadas??",pecas
+"OPA, ONDE FICA A OFICINA",fora_escopo
+"opa, quando entrou em manutenção",historico
+"Então, atualização do hb20 rapidinho",status
+"pfv, vai demorar muito",prazo
+"Bom dia, quem ganhou o jogo ontem?",fora_escopo
+"Ola, quanto custa uma troca de oleo rapidinho",fora_escopo
+"pfv, o que significa pronta para entrega me fala",significado_status
+valu pela informacao,saudacao
+"moco, qual o horario de funcionamento ai",fora_escopo
+"com licença, o q significa cancelada rapidinho",significado_status
+"com licença, qual o defeito encontrado",diagnostico
+"opa, o que quer dizer em manutenção por favor",significado_status
+muitoobg,saudacao
+ola,saudacao
+"Bom dia, quanto ficou a conta",valor
+"bom dia, qual peça está faltando",pecas
+"então, o q significa esse status",significado_status
+"Ei, qual o prazo do conserto?",prazo
+"Opa, qual a origem do problema?",diagnostico
+Mostra o histórico da ordem,historico
+tem prazo pra ficar pronto??,prazo
+aguardando peças quer dizer o quê aí,significado_status
+muito obg,saudacao
+PERFITO,saudacao
+"entao, quero cancelar o servico ai",fora_escopo
+linha do tempo do serviço me fala,historico
+"oi, explica o defeito do carro da minha esposa",diagnostico
+"Bom dia, tem prazo pra ficar pronto",prazo
+Valeu pel informacao,saudacao
+"Então, status rapidinho",status
+"com licença, que dia eu deixei o carro do meu pai?",historico
+"OI, ALGUÉM A?",saudacao
+"Boa tarde, quanto custa o conserto do carro do meu pai",valor
+"olá, quais peças vão usar?",pecas
+"MOÇO, QUANTO É A MÃO DE OBRA MAIS PEÇAS",valor
+"boa tarde, o q o veiculo tem rapidinho",diagnostico
+"moco, linha do tempo do servico?",historico
+"e ai, descobriram o defeito?",diagnostico
+"bom dia, quanto custa o conserto do meu fiat",valor
+"moço, q peça vocês colocaram no onix?",pecas
+valeupela informação,saudacao
+"entao, quais componentes foram trocados obg",pecas
+"Boa tarde, precisou trocar alguma coisame fala",pecas
+"Opa, qnd libera o carro?",prazo
+"ei, histórico do atendimento?",historico
+"oi, qual o prazo do conserto pfv",prazo
+"Bom dia, quanto ficou a conta me fala",valor
+"Moço, fica pronto essa semana por favor",prazo
+"BOM DIA, Á QUANTO TEMPO O HB20 ESTÁ AÍ??",historico
+"Boa tarde, explica o defeito do meu gol pfv",diagnostico
+"Ola, o q significa enregue",significado_status
+"Boa tarde, linha do tempo do servico rapidinho",historico
+"entao, tem descoto",fora_escopo
+"Então, o que é esse aguardando??",significado_status
+beleza valeu,saudacao
+Quando foi feito o diagnóstico pfv,historico
+"Ei, o carrinho sai até sexta por favor",prazo
+obriado,saudacao
+"cert, obg",saudacao
+"com licença, quando começou o conserto aí",historico
+"BOM DIA, STATUS PRONTA PRA ENTREGA SIGNIFICA QUE JÁ POSSO BUSCAR?",significado_status
+"opa, vcs fazem alinhamento rapidinho",fora_escopo
+Já tem o valor final,valor
+"opa, já passou por quais etapas pfv",historico
+"Ola, o que significa entregue",significado_status
+"por favor, é o motor pfv",diagnostico
+"ei, quanto esta o orcamento do meu veiculo pfv",valor
+"EI,TEM NOVIDADE DA MINHA ORDEM AÍ",status
+"e aí, lista das peças?",pecas
+"OPA, QUANTO CUSTA O CONSERTO DO VEICULO PFV",valor
+"opa, qual o status do carro do meu vizino??",fora_escopo
+"oi, o que deu no carrinho",diagnostico
+"boa tarde, o onix já ficou pronto pfv",status
+QUANTO VAI SAIR?,valor
+"Bom dia, posso saber o andamento",status
+"beleza, valeu",saudacao
+"Com licença, fazem funilaria por favor",fora_escopo
+"Moço, como tá?",status
+Etendido,saudacao
+Obrigaa pela ajuda,saudacao
+"boa tarde, me xplica o status",significado_status
+"opa, da pra buscar hoje obg",prazo
+"Bom dia, qual a melho gasolina?",fora_escopo
+Qual peça foi pedida me fala,pecas
+"sow, obrigado",saudacao
+tem estacionamento ai,fora_escopo
+"Moco, quais foram as atualizacoes pfv",historico
+"então, o que significa ordemaberta?",significado_status
+"entendi, origado",saudacao
+"ei, dá pra trocar o óleo também??",fora_escopo
+"BOM DIA, QUANTAS PEÇAS FORAM TROCADAS AÍ",pecas
+quanto deu o servico,valor
+"Então, já passou por quais etapas?",historico
+"EI, QUAL O TOTAL A PAGAR",valor
+"COM LICEÇA, POSSO PARCELAR PFV",fora_escopo
+"pfv, o q está acontecendo com o meu veículo agora??",status
+"EI, COMO FICOU O HB20?",status
+"bom dia, q horas posso passar pra pegar?",prazo
+Voces trabalham com carro eletrico rapidinho,fora_escopo
+"Moço, qual o total a pagar",valor
+"EI, FICA PRONTO ESSA SEMANA",prazo
+"então, quanto é a mão de obra mais peças aí",valor
+"oi,alguém aí?",saudacao
+"com licenca, o que voces encontraram??",diagnostico
+BOA NOIE,saudacao
+quando vou ter o meu fiat de volta??,prazo
+"então, posso mudar o mecânico me fala",fora_escopo
+"e aí, linha do tempo do serviço",historico
+o que significa esse status rapidinho,significado_status
+Consigo pegar o hb20 amanha por favor,prazo
+"Opa, trocaram alguma peça aí",pecas
+"Por favor, tem vaga de emprego",fora_escopo
+"olá, tud bem?",saudacao
+"boa tarde, aceita pix??",fora_escopo
+Quais foram a atualizacoes,historico
+"Então, qual o orçamento obg",valor
+"com licença, qual o orçamento aí",valor
+valor total do veiculo por favor,valor
+"Bom dia, não entendi o status",significado_status
+"bom dia, a peça já chegou?",pecas
+o que é aguardando diagnóstico aí,significado_status
+"pfv, desde quando está aguardando peças",historico
+"opa, o q quer dizer aberta",significado_status
+"por favor, qual peca foi pedida obg",pecas
+"e ai, o q ja foi feito ate agorame fala",historico
+o q e aguardando diagnostico ai,significado_status
+"Entao, que material vai ser usado",pecas
+"opa, o q uer dizer aberta me fala",significado_status
+"Oi, explica o defeito do caro do meu pai?",diagnostico
+"oa, já tem o valor final?",valor
+"Entao, explica o defeito do meu gol?",diagnostico
+"ei, colocaram peça original rapidinho",pecas
+"e ai, qual o valor doconserto??",valor
+"com licença, como está por favor",status
+aé mais,saudacao
+"opa, demora quantos dias pfv",prazo
+"opa, que peca voces estao esperando?",pecas
+"bom dia, o que quebrou me fala",diagnostico
+"moço, dá pra trocar o óleo tb?",fora_escopo
+"e aí, o q é aguardando diagnóstico pfv",significado_status
+"E aí, qual a origem do problema?",diagnostico
+"Por favor, tem lava jato aí",fora_escopo
+"boa tarde, quando entrou em manutenção",historico
+quero saber como esta o conserto do onix obrigado,status
+"por favor, q peça vocês estão esperando me fala",pecas
+"Moço,vcs trabalham com carro elétrico",fora_escopo
+"olá, já passou por quais etapas?",historico
+quando abriram a ordem?,historico
+"Ei, por q o carro do meu pai esquentava?",diagnostico
+"BOM DIA, VAI FICAR CARO OBRIGADO",valor
+"bom dia, qual a situação do meu veículo aí",status
+"oi, qual a avaria?",diagnostico
+"pfv, quanto custa uma troca de oleo",fora_escopo
+"moco, me explica o status obrigado",significado_status
+Me passa o valor me fala,valor
+O mecanico descobriu o que e??,diagnostico
+"com licenca, qual a previsao de entrega??",prazo
+como está o hb20?,status
+"ola, tudobem?",saudacao
+QUAL O ANDAMENTO DO SERVICO?,status
+"BOM DIA, QUE DIA O VEÍCULO FICA PRONTO",prazo
+quais peas foram trocadas ai,pecas
+"oi, quais componentes foram trocados?",pecas
+"e ai, o que voces encontraram por favor",diagnostico
+"por favor, a peça já chegou me fala",pecas
+boa noite,saudacao
+"E ai, qual a origem do problema",diagnostico
+"e ai, e o motor obg",diagnostico
+"Então, tem previsão para terminar rapidinho",prazo
+"olá, qual o valor estimado",valor
+O q significa esse status,significado_status
+"Ei, colocaram peça original??",pecas
+"Com licença, chegou a peça do meu fit obg",pecas
+"ei, a peca ja chegou?",pecas
+"por favor, já tem o valor final aí",valor
+"pfv, ja tem o valor final me fala",valor
+"entao, o q quer dizer em manutencao obg",significado_status
+"oi, ja esta pronto obrigado",status
+oi quais componentes foram trocados pfv,pecas
+"Boa tarde, qual e o status do onix",status
+"ei, tem lava jato aí pfv",fora_escopo
+"Bom dia, o que significa aguardando pecas?",significado_status
+"Entao, o que ja foi feito ate agora",historico
+"boa tarde, qual o status do carro do meu vizinho?",fora_escopo
+"moço, explica o que é em manutenção obg",significado_status
+"boa tarde, quero reclamar do atendimento ai",fora_escopo
+"entao, qnd comecou o conserto",historico
+ok entendi,saudacao
+"moco, o q esta acontecendo com o onix agora rapidinho",status
+me mostra tudo que aconteceu pfv,historico
+"com licença, posso saber o andamento pfv",status
+o q quebrou ai,diagnostico
+"opa, o onix tá prado aí?",status
+O QUE ESTÁ ACONTECENDO COM O MEU GOL AGORA PFV,status
+"com licença, quando libera o corolla pfv",prazo
+"moço, qual o prazo do coserto",prazo
+"OPA, TEM GARANTIA O SERVICO RAPIDINHO",fora_escopo
+"Olá, qual o orçamento?",valor
+"bom dia, o q deu no corolla aí",diagnostico
+"Entao, como ficou o veiculo me fala",status
+"Bom dia, em que etapa esta o meu veiculo me fala",status
+que dia eu deixei o carrinho,historico
+"ei, quanto vai sair pfv",valor
+"oi, consigo pegar o corola amanhã",prazo
+"opa, vai ficar caro?",valor
+por q o corolla estaa falhando??,diagnostico
+Chegou a peca do meu fiat pfv,pecas
+"boa tarde,precisou trocar alguma coisa aí",pecas
+"Boa tarde, o que é aguardando diagnóstico por favor",significado_status
+"bom dia, o que foi trocado por favor",pecas
+"Olá, como ficou o carro do meu pai aí",status
+"então, vai ficar caro por favor",valor
+"boa tarde, qn posso buscar o meu fiat me fala",prazo
+bom da,saudacao
+"Entendi, obriado",saudacao
+"Entao, desde qnd esta aguardando pecas",historico
+O carro da minha esposa sai ate sexta me fala,prazo
+"olá, quanto vai custar?",valor
+QUE PEÇA VOCÊS COLOCARAM NO MEU CARRO OBRIGADO,pecas
+"olá, qual a previsão de etrega me fala",prazo
+"opa, por q o meu gol esquentava rapidinho",diagnostico
+"Com licenca, qual o horario de funcionamento rapidinho",fora_escopo
+Qal foi o diagnóstico pfv,diagnostico
+"Boa tarde, que dia o meu veículo fica pronto aí",prazo
+"Opa, o que já foi feito at agora me fala",historico
+"Opa, o que uebrou obrigado",diagnostico
+quero falar com o grente pfv,fora_escopo
+"entao, valor total do meu veiculo",valor
+Tem algma atualização?,status
+"Oi, o que significa aguardando pecas?",significado_status
+"Ei, o que e esse aguardando me fala",significado_status
+"Moço, qual é o status do carro da minha esposa",status
+o que aconteceu desde que deixei o meu carro por favor,historico
+BO NOITE,saudacao
+"bom dia, o que significa aguardando peças obg",significado_status
+"bom dia, explica o que é em manutenção pfv",significado_status
+"Bom dia, o q significa esse status obrigado",significado_status
+"com licença,quando abriram a ordem??",historico
+quanto custa o conserto do carro obrigado,valor
+o carro do meu pai ainda está na fila,status
+"com licenca, aceita pix??",fora_escopo
+"moço, qnd o onix deu entrada",historico
+"ola, quanto custa o conserto do meu fiat",valor
+"moco, qnd posso buscar o meu gol obrigado",prazo
+"ei, quanto tempo ainda falta por favor",prazo
+"Entao, qnd foi feito o diagnostico pfv",historico
+"ei, como ficou o veículo obrigado",status
+"então, fica pronto essa semana rapidinho",prazo
+"oi, o que sinifica esse status",significado_status
+"ei, qnd mudou o status?",historico
+"moco, como assim aguardando pecas obrigado",significado_status
+quero agendar uma revisão,fora_escopo
+o que significa pronta para entrega??,significado_status
+"pfv, tem lava jato aí?",fora_escopo
+"bom dia, vcs emitem nota fiscal?",fora_escopo
+"então, fazem funilaria",fora_escopo
+"e ai, quero saber como esta o conserto do carro por favor",status
+"Com licença, o que significa ordem aberta",significado_status
+"Então, o que sgnifica ordem aberta",significado_status
+"E aí, quanto custa uma troca de óleo??",fora_escopo
+QUAL O STATUS RAPIDINHO,status
+"com licença, como tá rapidinho",status
+"com licença, quais peças foram trocadas?",pecas
+Entendio,saudacao
+"bom dia, qual o orçamento rapidinho",valor
+"entendi, obrigdo",saudacao
+Lista das pecas obrigado,pecas
+"e aí, que dia eu deixei o meu carro aí",historico
+"bom dia, quanto custa uma troca de óleo",fora_escopo
+"moço, qual peça está faltando por favor",pecas
+"bom dia, o meu veículo já ficou pronto por favor",status
+quando foi feito o diagnostico obrigado,historico
+"oi, o que quebrou me fala",diagnostico
+"oi, q peça vcs estão esperando",pecas
+"oi, quando abriram a ordem me fala",historico
+QUAL A SITUAÇÃO O MEU CARRO AÍ,status
+vai demorar muito pfv,prazo
+"Ei, aguardando peças quer dizer o quê me fala",significado_status
+"entao, qual o status",status
+"Entao, o q signifca esse status?",significado_status
+"então, o que tá errado com o meu fiat me fala",diagnostico
+"Oi, situacao atual",status
+"moço, dá pra trocar o óleo também??",fora_escopo
+"Oi, o que já foi feito até agora pfv",historico
+Olá teve troca de peça,pecas
+"moco, ja passou por quais etapas por favor",historico
+"e aí, quando começou o conserto",historico
+O que o carro do meu pai tem,diagnostico
+Situacao atual me fala,status
+"com licenca, qual e o stats pfv",status
+"pfv, que dia foi aberta a ordem",historico
+"com licenca, o que quer dizer em manutencao pfv",significado_status
+"olá, qual o valor estimado me fala",valor
+"moco, tem previsao pra terminar??",prazo
+"Por favor, quais foram as atualizações aí",historico
+fica pronto essa semana fv,prazo
+"Bom dia,o preço mudou me fala",valor
+"MOÇO, O Q FOI SUBSTITUÍDO",pecas
+"OI, ME EXPLICA O TATUS",significado_status
+"bom dia, mostra o historico da ordem",historico
+"Moço, tem estacionamento",fora_escopo
+valeu pela informaço,saudacao
+"oi, tem estacionamento aí",fora_escopo
+tem lava jato ai,fora_escopo
+"Por favor, posso parcelar por favor",fora_escopo
+"ei, o q significa pronta para entrega",significado_status
+"Opa, quanto vou pagar pfv",valor
+obrigada pela ajuda,saudacao
+qual o status do carro do meu vizinho,fora_escopo
+qual o custo do servico ai,valor
+"entao, qual o prazo do cnserto me fala",prazo
+"ola,tudo bem?",saudacao
+"com licença, vai ficar caro rapidinho",valor
+"oi, que ia o hb20 fica pronto aí",prazo
+valor total do carro da minha esposa,valor
+"e ai, quanto deu o servico",valor
+"oi, qual a origem do problema??",diagnostico
+"Ei, qual o telefone da oficina",fora_escopo
+"Moço, tem vaga de emprego",fora_escopo
+"Oi, linha do tempo do serviço",historico
+"boa tarde, até quando fica prnto pfv",prazo
+Ok enendi,saudacao
+Quais peças entraram no serviço pfv,pecas
+"boa tarde, quanto é a mão de obra mais peças obrigado",valor
+"MOÇO, QUAL O VALOR ESTIMADO",valor
+"Opa, q material vai ser usado",pecas
+"OLÁ, VCS TRABALHAM COM CARRO ELÉTRICO OBRIGADO",fora_escopo
+"E aí, é coisa sériapfv",diagnostico
+boa arde,saudacao
+"Bom dia, historico do atendimento?",historico
+"por favor, quero falar com o gerente pfv",fora_escopo
+"Ei, qual a previsão de entrega me fala",prazo
+"bom dia, o que causou o defeito rapidinho",diagnostico
+"moco, quem ganhou o jogo ontem?",fora_escopo
+"boa tarde, aceita pix",fora_escopo
+"olá, que peça vcs estão esperando aí",pecas
+"com licença, quanto ficou pfv",valor
+ta bm entao,saudacao
+"olá, me mostra tudo que aconteceu",historico
+"Ei, q dia o onix fica pronto aí",prazo
+o q quer dizer aberta??,significado_status
+Histórico do atendimento,historico
+"e ai, voces trabalham com carro eletrico obg",fora_escopo
+"bom dia, como ta o carro do meu pai obg",status
+Boanoite,saudacao
+"olá, chegou a pça do carro?",pecas
+"com licenca, quando entrou em manutencao ai",historico
+"olá, quanto custa uma troca de óleo",fora_escopo
+"ei, explica o que é em manutenção?",significado_status
+"Com licenca, que dia eu deixei o meu veiculo pfv",historico
+"Então, quanto eu devo pfv",valor
+"com licença, qual o orçamento",valor
+"Oi, o que vcs encontraram",diagnostico
+"entendi,obg",saudacao
+"com licenca, o que significa entregue?",significado_status
+"opa, quanto vai sair??",valor
+Certo obrigado,saudacao
+"e aí, q horas posso passar pra pegar?",prazo
+"com icenca, ate quando fica pronto ai",prazo
+"Por favor, já tem o valor final?",valor
+"boa tarde, o q significa esse status me fala",significado_status
+"opa, quais pecas foram trocadas obg",pecas
+"moco, qual foi o diagnostico",diagnostico
+"Opa, qual o problema do carro da minha esposa pfv",diagnostico
+"entao, qual a avaria me fala",diagnostico
+"ei, quais foram as atualizacoes",historico
+"com licenca, o que foi substituido??",pecas
+"com licença, vcs trabalham com carro elétrico",fora_escopo
+quanto ou pagar obrigado,valor
+quais pecas foam trocadas ai,pecas
+ate ais,saudacao
+"opa, quanto está o orçamento do carro da minha esposa me fala",valor
+"opa,  q foi encontrado no carrinho?",diagnostico
+"moço, colocaram peça original aí",pecas

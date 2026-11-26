@@ -1,0 +1,91 @@
+pergunta,intencao
+e ai tudo certo?,saudacao
+muito obrigado pela atenção,saudacao
+ok valeu demais,saudacao
+boa noite pessoal,saudacao
+ah tá entendi,saudacao
+obg!!,saudacao
+falou,saudacao
+oii,saudacao
+blz obrigado,saudacao
+show de bola,saudacao
+meu possante ja ta bom?,status
+como ficou o carro,status
+alguma noticia do meu carro?,status
+o carro ainda nao foi mexido?,status
+ja terminou o servico do meu fiat?,status
+como esta o andamento da minha ordem de servico,status
+ta em que fase o conserto,status
+o carro ja ta liberado?,status
+queria uma atualização do meu veiculo,status
+o serviço ja comecou ou nao?,status
+lá pra quando fica pronto?,prazo
+amanha ja da pra eu buscar?,prazo
+vou precisar ficar sem carro quantos dias,prazo
+consigo o carro de volta antes do fim de semana?,prazo
+qual a data que vcs prometeram,prazo
+sai hoje ainda?,prazo
+tem previsao?,prazo
+vai atrasar a entrega?,prazo
+preciso do carro na segunda fica pronto?,prazo
+em quanto tempo vcs terminam,prazo
+trocaram o que no carro,pecas
+quais pecas novas foram colocadas,pecas
+a peça que faltava ja chegou?,pecas
+qual peça vcs tao esperando chegar,pecas
+precisaram substituir alguma coisa?,pecas
+me diz as peças que foram usadas,pecas
+foi trocado algum componente do motor,pecas
+teve que comprar peça nova?,pecas
+quais itens foram trocados no meu carro,pecas
+colocaram o que de novo,pecas
+vai sair quanto tudo isso,valor
+quanto ta dando o conserto,valor
+qual o valor que eu vou ter que pagar,valor
+o orçamento ja saiu?,valor
+quanto ficou no total,valor
+tá caro o servico?,valor
+me passa o preço final,valor
+quanto vou desembolsar,valor
+o valor continua o mesmo do orçamento?,valor
+custo total do reparo,valor
+descobriram o que era o barulho?,diagnostico
+o que o mecânico achou,diagnostico
+por que a luz do painel acendeu,diagnostico
+qual era o defeito afinal,diagnostico
+o que tinha de errado no motor,diagnostico
+é grave o problema?,diagnostico
+o que fez o carro esquentar,diagnostico
+qual a causa da falha,diagnostico
+encontraram o problema do meu carro?,diagnostico
+o defeito era em que parte,diagnostico
+aguardando peças significa o que exatamente,significado_status
+nao entendi esse status ai,significado_status
+o que quer dizer pronta para entrega,significado_status
+em manutenção quer dizer que já tão consertando?,significado_status
+o que é aguardando diagnostico,significado_status
+esse status de aberta significa o que,significado_status
+pq ta escrito aguardando pecas,significado_status
+me explica o que quer dizer esse status,significado_status
+"status entregue, o que significa",significado_status
+o que significa o status da minha ordem,significado_status
+que dia eu levei o carro ai,historico
+quais foram as etapas ate agora,historico
+quando o carro entrou na oficina,historico
+o que ja aconteceu com a ordem,historico
+quando comecou a manutençao,historico
+desde quando o carro ta parado esperando peça,historico
+me mostra o historico,historico
+quando foi aberta minha ordem,historico
+quais mudanças teve no status,historico
+há quantos dias meu carro esta ai,historico
+vocês consertam ar condicionado,fora_escopo
+até que horas vcs ficam abertos,fora_escopo
+da pra pagar no cartao de credito,fora_escopo
+quero marcar uma revisão pro mes que vem,fora_escopo
+qual o endereço de vcs,fora_escopo
+quanto custa pra alinhar e balancear,fora_escopo
+vocês tem guincho,fora_escopo
+qual time vc torce,fora_escopo
+quero falar com um atendente humano,fora_escopo
+me indica uma autoescola,fora_escopo
